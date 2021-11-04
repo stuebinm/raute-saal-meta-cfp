@@ -36,6 +36,21 @@ Link zum CfP
 
 ## FeM
 ## c-base
+
+c-base cfp
+Das Leistungsspectrum des c-base channel bietet konzeptionelle Beratungsleistungen und operative Prozessdienstleistungen für umfassenden Know-how-Transfer in einer starken Wertschöpfungskette.
+
+Ob Live oder Remote, wir suchen Dich und deine Ideen für die gemeinsame Entwicklung von hochwertigen und nachhaltigen Kontent aus den Bereichen Art & Beauty, Gesellschaft & Netzpolitik!
+
+Die Marke c-base, mit ihrer mehrstufigen innovativen Multiplikatorenplattform, ist ein Lösungsansatz, um gesellschaftliche Herausforderungen, mit einem breiten systemisch-lösungsorientierten Communiy Beteiligungsprozess, zur Vermeidung von "Bullshit Bingo"
+
+Nutze auch Du die Möglichkeiten die Dir die größte Jahresendveranstaltung der Europäische Hackerszene zur Zusammenarbyte eröffnet und veröffentliche, in deinem ganz persönlich Zeitfenster, auf "c-base".
+
+Du kannst Einreichungen bis 23.11.2021 23:42 (Europe/Berlin) abschicken:
+
+https://pretalx.c3voc.de/rc3-2021-cbase/cfp
+
+
 ## digitallabor
 ## Chaos-West TV
 
