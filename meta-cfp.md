@@ -86,8 +86,8 @@ Im Sendezentrum wird es wird ein Programm mit Live-Podcasts und Vorträgen zu Po
 
 https://pretalx.c3voc.de/rc3-2021-haecksen/cfp
 
-Jadip-Logo: jadip-flat.svg
-Haecksen-Logo: haecksen-logo-gruenblau.png
+Jadip-Logo: ![jadip-logo](jadip-flat.svg)
+Haecksen-Logo: ![haecksen-logo](haecksen-logo-gruenblau.png)
 
 ## Binary Kitchen
 ## xHain hack+makespace
