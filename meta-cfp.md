@@ -41,6 +41,9 @@ Link zum CfP
 ## R3S
 ## Chaosstudio Hamburg
 ## ChaosZone TV
+
+Auch wenn wir uns schon wieder nicht in Leipzig treffen können, wird euch die ChaosZone eine Bühne für eure Vorträge, Workshops, Projekte und Kunst-Performances bieten. Die Produktionskapazitäten des ChaosZone TV Hauptstadtstudios in Halle sind gesichert und die Werktätigen des CCCP arbeiten bereits unermüdlich an der Vorbereitung einer dezentralen Veranstaltung mit Bühne in Potsdam.
+
 ## c3newsshow
 ## franconian.net
 ## hacc muc & a:f
