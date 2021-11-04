@@ -38,6 +38,15 @@ Link zum CfP
 ## c-base
 ## digitallabor
 ## Chaos-West TV
+
+"Back to the roots!"
+
+Grundlagentalks über Technik, liebevolle Beiträge zu euren Nerd-hobbies, dystopische Träume von Tech-Konzernen zerschmettern oder versuchen Utopien wahr zu machen - für all das findest du bei uns Platz.
+
+Auch dieses Jahr leider keine große Bühne auf dem Kongress, aber dafür haben wir ein physisches Studio in Ennepetal. Auf einem alten Industriegelände mit viel Platz für abgedrehte Ideen würden wir dich gerne bei uns sehen. Vor der Bühne werden nur eine handvoll Menschen Platz finden, wir übertragen aber in Echtzeit in das nebenliegende Hackcenter.
+
+https://pretalx.c3voc.de/rc3-2021-cwtv/cfp
+
 ## R3S
 ## Chaosstudio Hamburg
 ## ChaosZone TV
