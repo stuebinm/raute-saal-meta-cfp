@@ -52,6 +52,17 @@ https://pretalx.c3voc.de/rc3-2021-cwtv/cfp
 ## ChaosZone TV
 ## c3newsshow
 ## franconian.net
+
+Der Chaos Communication Congress (C3) wird auch dieses Jahr [nicht in Präsenz](https://events.ccc.de/2021/10/01/absage_praesenz_2021/) stattfinden. Stattdessen werden vom 27.12. bis zum 30.12.2021 verschiedene Chaos-nahe Gruppen kleinere, verteilte Events ausrichten.
+
+[franconian.net](https://franconian.net), ein Zusammenschluss fränkischer Hackspaces ([Hackzogtum Coburg e.V.](https://hackzogtum-coburg.de), [Nerd2Nerd e.V.](https://nerd2nerd.org) und [backspace e.V.](https://hackerspace-bamberg.de)), lädt euch ein, eure Vorschläge für interessante Vorträge/Workshops/Sonstiges noch **bis zum 23.11.2021 um 23:42 Uhr CET** in unseren [Call for Participation (CfP)](https://cfp.franconian.net/end-of-year-event-2021/cfp) einzubringen.
+
+Du hast ein interessantes Projekt, das du anderen Hacker\*innen vorstellen möchtest? Gerne kannst du bei uns einen Vortrag einreichen!
+
+Du hast Erfahrung mit $Tool, $Programmiersprache, etc.? Halte doch einen Workshop darüber, um anderen Menschen eine Einführung zu geben und/oder sie dafür zu begeistern.
+
+Wir bieten euch die Möglichkeit, euren Beitrag in unserem "Studio" in Bamberg zu präsentieren – vorbehaltlich einer dies zulassenden Situation zwischen Weihnachten und Silvester. In jedem Fall wird es möglich sein, von zu Hause aus per Webcam zugeschaltet zu werden. Das Publikum wird abgesehen von den vor Ort zum Betrieb der Technik anwesenden Menschen ausschließlich per Livestream zuschauen.
+
 ## hacc muc & a:f
 ## Sendezentrum
 ## haecksen
