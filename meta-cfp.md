@@ -50,6 +50,17 @@ https://pretalx.c3voc.de/rc3-2021-cwtv/cfp
 ## R3S
 ## Chaosstudio Hamburg
 ## ChaosZone TV
+
+Liebe Reisende,
+
+in einem wohlbekannten Land, vor gar nicht all zu langer Zeit fanden zwischen Weihnachten und Silvester Lebensformen zusammen, um zu berichten. Von guten und von schlechten Taten, von ihren Plänen und ihren Träumen. Geschichte wurde zur Legende, Legende wurde Mythos. Und zwischen flimmernden Schatten auf Bildschirmen in der Farbe eines Fernsehers, der auf einen toten Kanal geschaltet war …
+
+HALT. Da geht noch was.
+
+Auch wenn wir uns schon wieder nicht in Leipzig treffen können, wird euch die ChaosZone eine Bühne für eure Vorträge, Workshops, Projekte und Kunst-Performances bieten. Die Produktionskapazitäten des ChaosZone TV Hauptstadtstudios in Halle sind gesichert und die Werktätigen des CCCP arbeiten bereits unermüdlich an der Vorbereitung einer dezentralen Veranstaltung mit Bühne in Potsdam.
+
+https://pretalx.c3voc.de/rc3-2021-chaoszone/cfp
+
 ## c3newsshow
 ## franconian.net
 ## hacc muc & a:f
