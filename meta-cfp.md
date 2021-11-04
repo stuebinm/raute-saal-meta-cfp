@@ -65,6 +65,9 @@ https://pretalx.c3voc.de/rc3-2021-chaoszone/cfp
 ## franconian.net
 ## hacc muc & a:f
 ## Sendezentrum
+
+Im Sendezentrum wird es wird ein Programm mit Live-Podcasts und Vorträgen zu Podcasting-Themen geben. Das Sendezentrum ist virtuell, es gibt keine Präsenzbühne. https://sendegate.de/t/sendezentrum-rc3-2021-call-for-participation-live-podcasts-talks-workshops/14536
+
 ## haecksen
 ## Binary Kitchen
 ## xHain hack+makespace
