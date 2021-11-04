@@ -59,6 +59,8 @@ Auch dieses Jahr leider keine große Bühne auf dem Kongress, aber dafür haben 
 
 https://pretalx.c3voc.de/rc3-2021-cwtv/cfp
 
+Logo: cwtv_logo_vektor.svg
+
 ## R3S
 ## Chaosstudio Hamburg
 ## ChaosZone TV
