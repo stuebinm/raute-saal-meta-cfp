@@ -62,7 +62,7 @@ https://pretalx.c3voc.de/rc3-2021-cwtv/cfp
 ## R3S
 
 **R3S - Sharks in Cyber Space**
-Wie im letzten Jahr haben wir wieder eine echte Bühne in der Aula der VHS mit professionellem Licht-, Audio- und Streaming-Equipment. Wer also mal wieder [fast ;-)] echtes Bühnenfeeling mit viel medialer Reichweite spüren möchte, kommt gerne zu uns nach **Monheim am Rhein**. Monheim a. R. liegt verkehrsgünstig zwischen den beiden Großstädten Köln und Düsseldorf incl. nachhaltigen Transportmöglichkeiten.
+Wie im letzten Jahr haben wir wieder eine echte Bühne mit professionellem Licht-, Audio- und Streaming-Equipment. Wer also mal wieder [fast ;-)] echtes Bühnenfeeling mit viel medialer Reichweite spüren möchte, kommt gerne zu uns in die Aula der Volkshochschule nach **Monheim am Rhein**. Monheim a. R. liegt verkehrsgünstig zwischen den beiden Großstädten Köln und Düsseldorf incl. nachhaltigen Transportmöglichkeiten.
 
 Fühlt Euch herzlich eingeladen, wenn Ihr etwas zu **Opensource, Datensicherheit** oder **Nachhaltigkeit** zu sagen, zeigen, basteln habt. Natürlich interessieren uns aber auch alle anderen Cyber-Themen, die Ihr zu uns tragt. 
 
