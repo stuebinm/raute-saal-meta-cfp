@@ -81,5 +81,13 @@ https://pretalx.c3voc.de/rc3-2021-chaoszone/cfp
 Im Sendezentrum wird es wird ein Programm mit Live-Podcasts und Vorträgen zu Podcasting-Themen geben. Das Sendezentrum ist virtuell, es gibt keine Präsenzbühne. https://sendegate.de/t/sendezentrum-rc3-2021-call-for-participation-live-podcasts-talks-workshops/14536
 
 ## haecksen
+
+"Just another day in Paradise", so lautet das Motto unter welchem die Haecksen mit euch das Jahr 2021 ausklingen lassen. Um das Jahresendevent auch wirklich zu einem Paradis zu machen brauchen wir dich, deine Ideen, deine Kreativität oder dein Know-How. Deshalb reiche deinen Talk, Workshop, Lightning-Talk oder Panel bei unserem CfP ein.
+
+https://pretalx.c3voc.de/rc3-2021-haecksen/cfp
+
+Jadip-Logo: ![jadip-logo](jadip-flat.svg)
+Haecksen-Logo: ![haecksen-logo](haecksen-logo-gruenblau.png)
+
 ## Binary Kitchen
 ## xHain hack+makespace
