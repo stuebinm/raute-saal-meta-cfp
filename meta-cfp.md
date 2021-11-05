@@ -63,6 +63,11 @@ Logo: cwtv_logo_vektor.svg
 
 ## R3S
 ## Chaosstudio Hamburg
+
+Der CfP wird am 9.11. erscheinen. Thematisch konzentriert sich das Chaosstudio Hamburg auf eher regionale Formate. Ob Publikum vor Ort im Studio sein kann, klärt sich im Laufe des November.
+
+https://pretalx.c3voc.de/rc3-2021-chaosstudiohamburg/cfp
+
 ## ChaosZone TV
 
 Liebe Reisende,
