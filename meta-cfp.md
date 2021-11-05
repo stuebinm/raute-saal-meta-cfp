@@ -62,21 +62,17 @@ https://pretalx.c3voc.de/rc3-2021-cwtv/cfp
 ## R3S
 
 **R3S - Sharks in Cyber Space**
+Wie im letzten Jahr haben wir wieder eine echte Bühne in der Aula der VHS mit professionellem Licht-, Audio- und Streaming-Equipment. Wer also mal wieder [fast ;-)] echtes Bühnenfeeling mit viel medialer Reichweite spüren möchte, kommt gerne zu uns nach **Monheim am Rhein**. Monheim a. R. liegt verkehrsgünstig zwischen den beiden Großstädten Köln und Düsseldorf incl. nachhaltigen Transportmöglichkeiten.
 
-"Und täglich grüßt das Murmeltier." Wer kennt den Satz nicht? Ein wenig kommen wir uns doch aktuell schon wieder so vor wie vor 12 Monaten. Und aus den gleichen Gründen wie 2020 machen wir dieses Jahr die allseits bekannte und beliebte Jahresendveranstaltung unter dem Motto: rc3.rev2
+Fühlt Euch herzlich eingeladen, wenn Ihr etwas zu **Opensource, Datensicherheit** oder **Nachhaltigkeit** zu sagen, zeigen, basteln habt. Natürlich interessieren uns aber auch alle anderen Cyber-Themen, die Ihr zu uns tragt. 
 
-Wie im letzten Jahr haben wir wieder eine echte Bühne in der Aula der VHS mit professionellem Licht-, Audio- und Streaming-Equipment. Wer also mal wieder [fast ;-)] echtes Bühnenfeeling mit viel medialer Reichweite spüren möchte, kommt gerne zu uns nach **Monheim am Rhein**. Wir planen zu media.ccc, chaoswest-tv, twitch und youtube zu streamen. Monheim a. R. liegt verkehrsgünstig zwischen den beiden Großstädten Köln und Düsseldorf incl. nachhaltigen Transportmöglichkeiten.
-
-Fühlt Euch herzlich eingeladen, wenn Ihr etwas zu **Opensource, Datensicherheit** oder **Nachhaltigkeit** zu sagen, zeigen, basteln habt. Natürlich interessieren uns aber auch alle anderen Cyber-Themen, die Ihr zu uns tragt. Bei uns könnt Ihr quasi jeden Talk / Performance / Bastel-Workshop durchführen. 
-
-**Wir bieten Euch folgende Möglichkeiten:**
+**Beim R3S habt Ihr folgende Möglichkeiten:**
 - Fully Live On Stage - Real 3D - Corona 2G
 - aufgezeichneter Talk - Q+A live on Stage - Corona 2G
 - aufgezeichneter Talk - Q+A remote
 - fully remote (Talk + Q+A)
-- ... sprecht uns an was Ihr sonst noch benötigt
 
-**So erreicht ihr uns:**
+**Links:**
 * Kontakt: orga@r3s.nrw
 * Web: https://r3s.nrw/
 * CfP: https://pretalx.c3voc.de/rc3-2021-r3s/
