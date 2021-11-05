@@ -61,6 +61,16 @@ Du hast Erfahrung mit $Tool, $Programmiersprache, etc.? Halte doch einen Worksho
 
 Wir bieten euch die Möglichkeit, euren Beitrag in unserem "Studio" in Bamberg zu präsentieren – vorbehaltlich einer dies zulassenden Situation zwischen Weihnachten und Silvester. In jedem Fall wird es möglich sein, von zu Hause aus per Webcam zugeschaltet zu werden. Das Publikum wird abgesehen von den vor Ort zum Betrieb der Technik anwesenden Menschen ausschließlich per Livestream zuschauen.
 
+### english version
+
+[franconian.net](https://franconian.net), a cluster of several franconian hackspaces (namely [Hackzogtum Coburg e.V.](https://hackzogtum-coburg.de), [Nerd2Nerd e.V.](https://nerd2nerd.org) and [backspace e.V.](https://hackerspace-bamberg.de)), invites you to submit your proposals for interesting talks, workshops and other performances until 23rd of November 2021 at 23:42 CET (that's 22:42 UTC) to our Call for Participation (CfP).
+
+You've got some interesting project that you want to show others? Enter your talk into our CfP now!
+
+There's $tool or $programming_language you have some experience in using? Teach people about it in a workshop!
+
+You may come to our "studio" in Bamberg if the situation between Christmas and New Year's permits it. In any case, there will be the possibility to join us from home with your webcam. The audience is going to be exclusively remote via live stream.
+
 ## hacc muc & a:f
 ## Sendezentrum
 ## haecksen
