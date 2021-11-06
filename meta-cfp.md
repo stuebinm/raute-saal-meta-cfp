@@ -62,6 +62,23 @@ https://pretalx.c3voc.de/rc3-2021-cwtv/cfp
 Logo: cwtv_logo_vektor.svg
 
 ## R3S
+
+**R3S - Sharks in Cyber Space**
+Wie im letzten Jahr haben wir wieder eine echte Bühne mit professionellem Licht-, Audio- und Streaming-Equipment. Wer also mal wieder [fast ;-)] echtes Bühnenfeeling mit viel medialer Reichweite spüren möchte, kommt gerne zu uns in die Aula der Volkshochschule nach **Monheim am Rhein**. Monheim a. R. liegt verkehrsgünstig zwischen den beiden Großstädten Köln und Düsseldorf incl. nachhaltigen Transportmöglichkeiten.
+
+Fühlt Euch herzlich eingeladen, wenn Ihr etwas zu **Opensource, Datensicherheit** oder **Nachhaltigkeit** zu sagen, zeigen, basteln habt. Natürlich interessieren uns aber auch alle anderen Cyber-Themen, die Ihr zu uns tragt. 
+
+**Beim R3S habt Ihr folgende Möglichkeiten:**
+- Fully Live On Stage - Real 3D - Corona 2G
+- aufgezeichneter Talk - Q+A live on Stage - Corona 2G
+- aufgezeichneter Talk - Q+A remote
+- fully remote (Talk + Q+A)
+
+**Links:**
+* Kontakt: orga@r3s.nrw
+* Web: https://r3s.nrw/
+* CfP: https://pretalx.c3voc.de/rc3-2021-r3s/
+
 ## Chaosstudio Hamburg
 
 Der CfP wird am 9.11. erscheinen. Thematisch konzentriert sich das Chaosstudio Hamburg auf eher regionale Formate. Ob Publikum vor Ort im Studio sein kann, klärt sich im Laufe des November.
