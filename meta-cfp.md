@@ -79,9 +79,11 @@ Fühlt Euch herzlich eingeladen, wenn Ihr etwas zu **Opensource, Datensicherheit
 * Web: https://r3s.nrw/
 * CfP: https://pretalx.c3voc.de/rc3-2021-r3s/
 
-## Chaosstudio Hamburg
-
 ## Chaosstudio Hamburg – We feel homesick for the future
+
+![ccchh-logo-1](ccchh-logo-white-on-transparent.svg)
+![ccchh-logo-2](ccchh-logo-white-on-transparent-drop-shadow.svg)
+![ccchh-logo-3](ccchh-logo.svg)
 
 Wir haben Heimweh nach der Zukunft. Aus diesem Grund lädt das Chaosstudio Hamburg im Rahmen der JEV’21 zur Beteiligung ein.
 
