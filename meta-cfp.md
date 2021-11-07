@@ -3,7 +3,7 @@ Entgegen aller Erwartungen, Hoffnungen und Wünsche gibt es auch dieses Jahr noc
 
 Diese Bühnen werden von eigenständigen Channels betreut. Jeder dieser Channels hat ein eigenes Fachgebiet. Jeder dieser Channel hat einen eigenen Call for Participation.
 
-In diesem Meta-CfP wollen wir uns als Channels vorstellen. Wir wollen euch aber auch unseren gemeinsamen Konsens über das, was wir auf dem 2rc3.rev2b+ wollen, transparent darlegen.
+In diesem Meta-CfP wollen wir uns als Channels vorstellen. Wir wollen euch aber auch unseren gemeinsamen Konsens über das, was wir auf dem rc3.rev2 wollen, transparent darlegen.
 
 # Gemeinsame Spielregeln
 Im Vorfeld haben wir uns auf gemeinsame [Spielregeln](https://c3voc.de/wiki/events:jahresendveranstaltung2021:call_for_productionplaces) geeinigt.  Diese Spielregeln betreffen alle Einreichungen in den Channels.
