@@ -14,7 +14,7 @@ Am **24. November um 23:42 Uhr** in der Zeitzone `Europe/Berlin` **endet das Zei
 Wir, also die Channels, werden die Einreichungen im nächsten Schritt sichten und euch dann bis zum **4. Dezember um 23:42 Uhr** über die Annahme oder Ablehnung informieren.
 
 ## Mehrfacheinreichungen
-Es gibt eine Vielzahl von verschiedenen Channels - somit auch eine Vielzahl von Möglichkeiten, einen Beitrag einzureichen. Bitte gebt bei euren Einreichungen an, ob ihr euch auch bei anderen Channels beworben habt.
+Es gibt eine Vielzahl von verschiedenen Channels - somit auch eine Vielzahl von Möglichkeiten, einen Beitrag einzureichen. Bitte gebt bei euren Einreichungen an, ob und bei welchen anderen Channels ihr euch beworben habt.
 
 Die Channels werden dann gemeinsam entscheiden, welcher Channel euch hosten wird.
 
