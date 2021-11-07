@@ -39,6 +39,12 @@ Soziale Probleme lassen sich durch Technik nicht lösen, die kann aber helfen. V
 
 https://pretalx.c3voc.de/rc3-2021-r3s/
 
+### english version
+
+Social problems cannot be solved by technology, but it can help. From home labs to hyperscaler, from pirate radio stations to the highly professional media agencies and from home LAN cabling to intercontinental networks, we are interested in your submissions on technology itself, approaches to using it creatively, its influence on our society, and why certain things should (rather not) be done.
+
+https://pretalx.c3voc.de/rc3-2021-r3s/
+
 ## c-base
 
 Das Leistungsspectrum des c-base channel bietet konzeptionelle Beratungsleistungen und operative Prozessdienstleistungen für umfassenden Know-how-Transfer in einer starken Wertschöpfungskette.
