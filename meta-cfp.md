@@ -35,6 +35,16 @@ Hinweis, ob es eine Präsenzbühe mit Publikum gibt oder ob es ein (virtuelles) 
 Link zum CfP
 
 ## FeM
+Soziale Probleme lassen sich durch Technik nicht lösen, die kann aber helfen. Vom Home-Lab bis zum Hyperscaler, vom Piratensender bis zur hoch professionellen Medienanstalt und der LAN-Verkabelung Zuhause bis zu interkontinentalen Weitverkehrsnetzen interessieren wir uns für deine Einreichung zur Technik selber, Ansätze diese kreativ zu nutzen, deren Einfluss auf unsere Gesellschaft, und warum bestimmte Dinge (eher nicht) getan werden sollten.
+
+https://pretalx.c3voc.de/rc3-2021-r3s/
+
+### english version
+
+Social problems cannot be solved by technology, but technology can help. From home labs to hyperscaler, from pirate radio stations to the highly professional media agencies and from home LAN cabling to intercontinental networks, we are interested in your submissions on technology itself, approaches to using it creatively, its influence on our society, and why certain things should (rather not) be done.
+
+https://pretalx.c3voc.de/rc3-2021-r3s/
+
 ## c-base
 
 Das Leistungsspectrum des c-base channel bietet konzeptionelle Beratungsleistungen und operative Prozessdienstleistungen für umfassenden Know-how-Transfer in einer starken Wertschöpfungskette.
@@ -57,26 +67,52 @@ Grundlagentalks über Technik, liebevolle Beiträge zu euren Nerd-hobbies, dysto
 
 Auch dieses Jahr leider keine große Bühne auf dem Kongress, aber dafür haben wir ein physisches Studio in Ennepetal. Auf einem alten Industriegelände mit viel Platz für abgedrehte Ideen würden wir dich gerne bei uns sehen. Vor der Bühne werden nur eine handvoll Menschen Platz finden, wir übertragen aber in Echtzeit in das nebenliegende Hackcenter.
 
+---
+
+"Back to the roots!"
+
+Introductory talks about tech-things, fancy science foo explained, also for mere mortals without a PhD, or just a heartfelt presentation of your weird Nerd-hobby will finmd a home here.
+
+Sadly this year we don't have a big stage at the Congress, but rather a physical studio in Ennepetal. We would love to have you with us on this old industrial location with lots of space for crazy ideas. There will be just a handfull of seats in front of the stage, but we'll transmit in realtime to the Hackcenter in the next building.
+
 https://pretalx.c3voc.de/rc3-2021-cwtv/cfp
 
 Logo: cwtv_logo_vektor.svg
 
 ## R3S
 
-**R3S - Sharks in Cyber Space**
-Wie im letzten Jahr haben wir wieder eine echte Bühne mit professionellem Licht-, Audio- und Streaming-Equipment. Wer also mal wieder [fast ;-)] echtes Bühnenfeeling mit viel medialer Reichweite spüren möchte, kommt gerne zu uns in die Aula der Volkshochschule nach **Monheim am Rhein**. Monheim a. R. liegt verkehrsgünstig zwischen den beiden Großstädten Köln und Düsseldorf incl. nachhaltigen Transportmöglichkeiten.
+**R3S - Sharks in Cyberspace**
+Wie im letzten Jahr haben wir wieder eine echte Bühne mit professionellem Licht-, Audio- und Streamingequipment. Wer also mal wieder [fast ;-)] echtes Bühnenfeeling spüren möchte, kommt gerne zu uns in die Aula der Volkshochschule nach **Monheim am Rhein**. Monheim liegt verkehrsgünstig zwischen den beiden Großstädten Köln und Düsseldorf.
 
-Fühlt Euch herzlich eingeladen, wenn Ihr etwas zu **Opensource, Datensicherheit** oder **Nachhaltigkeit** zu sagen, zeigen, basteln habt. Natürlich interessieren uns aber auch alle anderen Cyber-Themen, die Ihr zu uns tragt. 
+Fühlt Euch herzlich eingeladen, wenn Ihr etwas zu **Opensource**, **Datensicherheit** oder **Nachhaltigkeit** zu sagen, zeigen, basteln habt. Natürlich interessieren uns aber auch alle anderen Cyber-Themen, die Ihr zu uns tragt. 
 
-**Beim R3S habt Ihr folgende Möglichkeiten:**
-- Fully Live On Stage - Real 3D - Corona 2G
-- aufgezeichneter Talk - Q+A live on Stage - Corona 2G
-- aufgezeichneter Talk - Q+A remote
-- fully remote (Talk + Q+A)
+**Bei der R3S habt Ihr folgende Möglichkeiten:**
+- komplett live on Stage  - Corona 2G
+- aufgezeichneter Talk - Q&A live on Stage - Corona 2G
+- aufgezeichneter Talk - Q&A remote
+- komplett remote (Talk - Q&A)
 
 **Links:**
 * Kontakt: orga@r3s.nrw
 * Web: https://r3s.nrw/
+* CfP: https://pretalx.c3voc.de/rc3-2021-r3s/
+
+### english version
+
+**R3S - Sharks in Cyberspace**.
+Like last year, we will have a real stage with professional lighting, audio and streaming equipment. So if you want to have [almost ;-)] real stage feeling again, you are welcome to join us in the auditorium of the Volkshochschule in **Monheim am Rhein**. Monheim is located between the two big cities Cologne and Düsseldorf easily reachable by public transport.
+
+Feel invited if you have something to say, show, tinker to **Open source**, **Data Security** or **Sustainability**. Of course we are also interested in all other cyber topics you bring to us. 
+
+**At R3S you have the following possibilities:**
+- fully live on stage - corona 2G
+- recorded talk - Q&A live on stage - corona 2G
+- recorded talk - Q&A remote
+- fully remote (talk - Q&A)
+
+**Links:**
+* contact: orga@r3s.nrw
+* web: https://r3s.nrw/
 * CfP: https://pretalx.c3voc.de/rc3-2021-r3s/
 
 ## Chaosstudio Hamburg
@@ -87,13 +123,27 @@ https://pretalx.c3voc.de/rc3-2021-chaosstudiohamburg/cfp
 
 ## ChaosZone TV
 
+### German
+
 Liebe Reisende,
 
 in einem wohlbekannten Land, vor gar nicht all zu langer Zeit fanden zwischen Weihnachten und Silvester Lebensformen zusammen, um zu berichten. Von guten und von schlechten Taten, von ihren Plänen und ihren Träumen. Geschichte wurde zur Legende, Legende wurde Mythos. Und zwischen flimmernden Schatten auf Bildschirmen in der Farbe eines Fernsehers, der auf einen toten Kanal geschaltet war …
 
 HALT. Da geht noch was.
 
-Auch wenn wir uns schon wieder nicht in Leipzig treffen können, wird euch die ChaosZone eine Bühne für eure Vorträge, Workshops, Projekte und Kunst-Performances bieten. Die Produktionskapazitäten des ChaosZone TV Hauptstadtstudios in Halle sind gesichert und die Werktätigen des CCCP arbeiten bereits unermüdlich an der Vorbereitung einer dezentralen Veranstaltung mit Bühne in Potsdam.
+Auch wenn wir uns schon wieder nicht in Leipzig treffen können, wird euch die ChaosZone eine Bühne für eure Vorträge, Projekte und Kunst-Performances bieten. Die Produktionskapazitäten des ChaosZone TV Hauptstadtstudios in Halle sind gesichert und die Werktätigen des CCCP arbeiten bereits unermüdlich an der Vorbereitung einer dezentralen Veranstaltung mit Bühne in Potsdam.
+
+https://pretalx.c3voc.de/rc3-2021-chaoszone/cfp
+
+### English
+
+Dear travelers,
+
+in a well known place, not long in the past, between Christmas and New Year's Eve, life forms came together to tell stories. Of good and of bad deeds, of their plans and their dreams. History became legend, legend became myth. And between flickering shadows on screens the color of television tuned to a dead channel ...
+
+STOP. There's still something here.
+
+Even if we once again can't meet in Leipzig, the ChaosZone will offer you a stage for your talks, projects and art performances. The production capacities of the ChaosZone TV capital studio in Halle are secured and the working people of the CCCP are already tirelessly preparing a decentralized event with a stage in Potsdam.
 
 https://pretalx.c3voc.de/rc3-2021-chaoszone/cfp
 
@@ -118,7 +168,14 @@ There's $tool or $programming_language you have some experience in using? Teach 
 
 You may come to our "studio" in Bamberg if the situation between Christmas and New Year's permits it. In any case, there will be the possibility to join us from home with your webcam. The audience is going to be exclusively remote via live stream.
 
-## hacc muc & a:f
+## about:future / hackers against climate change München
+Was tun, während die Klimakrise weiter geht? Wo lässt sich ansetzen, und wie? An welchen Orten können Alternativen geschaffen werden – zum unentrinnbaren Straßenverkehr, zu nicht Recycle- oder Reparierbarem, zu Weltanschauungen, die von vornherein jede Veränderung als unmöglich betrachten? Und wie könnten die aussehen?
+Auch diesen Remote-Congress möchten wir ([hackers against climate change München](https://muc.hacc.earth/)) als Teil des about:future Clusters diesen Fragen eine Bühne geben.
+
+⚠ Achtung: Aus Kapazitätsgründen können wir leider nur ein kleines Programm mit Beiträgen livegestreamt von unserem lokalen Studio vor Ort in München umsetzen. Bitte versichert, dass ihr irgendwann vom 27.-30. da sein könnt. Reicht euren Beitrag gerne auch bei anderen Channels ein.
+
+[Zum CfP / Go to CfP](https://pretalx.c3voc.de/rc3-2021-hacc-a-f/cfp)
+
 ## Sendezentrum
 
 Im Sendezentrum wird es wird ein Programm mit Live-Podcasts und Vorträgen zu Podcasting-Themen geben. Das Sendezentrum ist virtuell, es gibt keine Präsenzbühne. https://sendegate.de/t/sendezentrum-rc3-2021-call-for-participation-live-podcasts-talks-workshops/14536
