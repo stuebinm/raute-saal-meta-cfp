@@ -46,7 +46,7 @@ Social problems cannot be solved by technology, but technology can help. From ho
 https://pretalx.c3voc.de/rc3-2021-r3s/
 
 ## c-base
-
+![cbase-logo](cbase_logo_claim_blue.png)
 Das Leistungsspectrum des c-base channel bietet konzeptionelle Beratungsleistungen und operative Prozessdienstleistungen für umfassenden Know-how-Transfer in einer starken Wertschöpfungskette.
 
 Ob Live oder Remote, wir suchen Dich und deine Ideen für die gemeinsame Entwicklung von hochwertigen und nachhaltigen Kontent aus den Bereichen Art & Beauty, Gesellschaft & Netzpolitik!
