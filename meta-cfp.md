@@ -57,6 +57,14 @@ Grundlagentalks über Technik, liebevolle Beiträge zu euren Nerd-hobbies, dysto
 
 Auch dieses Jahr leider keine große Bühne auf dem Kongress, aber dafür haben wir ein physisches Studio in Ennepetal. Auf einem alten Industriegelände mit viel Platz für abgedrehte Ideen würden wir dich gerne bei uns sehen. Vor der Bühne werden nur eine handvoll Menschen Platz finden, wir übertragen aber in Echtzeit in das nebenliegende Hackcenter.
 
+---
+
+"Back to the roots!"
+
+Introductory talks about tech-things, fancy science foo explained, also for mere mortals without a PhD, or just a heartfelt presentation of your weird Nerd-hobby will finmd a home here.
+
+Sadly this year we don't have a big stage at the Congress, but rather a physical studio in Ennepetal. We would love to have you with us on this old industrial location with lots of space for crazy ideas. There will be just a handfull of seats in front of the stage, but we'll transmit in realtime to the Hackcenter in the next building.
+
 https://pretalx.c3voc.de/rc3-2021-cwtv/cfp
 
 Logo: cwtv_logo_vektor.svg
