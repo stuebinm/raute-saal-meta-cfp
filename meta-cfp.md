@@ -1,9 +1,9 @@
-# [rc3.rev2] Meta-Call for Participation
-Entgegen aller Erwartungen, Hoffnungen und Wünsche gibt es auch dieses Jahr noch keinen Präsenz-Congress. Aber es wird aller Wahrscheinlichkeit auch keinen reinen remote Congress geben. Wir machen keine Neuauflage, sondern eine rev2. rev2 bedeutet, dass es einen dezentralen (remote) Congress geben wird. Lokale Spaces werden Events hosten, es wird verteile (virtuelle) Bühnen geben.
+# [RC3 2021 - NOWHERE] Meta-Call for Participation
+Entgegen aller Erwartungen, Hoffnungen und Wünsche gibt es auch dieses Jahr noch keinen Präsenz-Congress. Aber es wird aller Wahrscheinlichkeit auch keinen reinen remote Congress geben. Aber es wird keine Wiederholung vom letzten Jahr geben. Es wird eine Neuauflage sein, da es einen dezentralen (remote) Congress geben wird. Lokale Spaces werden Events hosten, es wird verteile (virtuelle) Bühnen geben.
 
 Diese Bühnen werden von eigenständigen Channels betreut. Jeder dieser Channels hat ein eigenes Fachgebiet. Jeder dieser Channel hat einen eigenen Call for Participation.
 
-In diesem Meta-CfP wollen wir uns als Channels vorstellen. Wir wollen euch aber auch unseren gemeinsamen Konsens über das, was wir auf dem rc3.rev2 wollen, transparent darlegen.
+In diesem Meta-CfP wollen wir uns als Channels vorstellen. Wir wollen euch aber auch unseren gemeinsamen Konsens über das, was wir auf dem RC3 2021 - NOWHERE wollen, transparent darlegen.
 
 # Gemeinsame Spielregeln
 Im Vorfeld haben wir uns auf gemeinsame [Spielregeln](https://c3voc.de/wiki/events:jahresendveranstaltung2021:call_for_productionplaces) geeinigt.  Diese Spielregeln betreffen alle Einreichungen in den Channels.
@@ -84,7 +84,7 @@ Logo: cwtv_logo_vektor.svg
 **R3S - Sharks in Cyberspace**
 Wie im letzten Jahr haben wir wieder eine echte Bühne mit professionellem Licht-, Audio- und Streamingequipment. Wer also mal wieder [fast ;-)] echtes Bühnenfeeling spüren möchte, kommt gerne zu uns in die Aula der Volkshochschule nach **Monheim am Rhein**. Monheim liegt verkehrsgünstig zwischen den beiden Großstädten Köln und Düsseldorf.
 
-Fühlt Euch herzlich eingeladen, wenn Ihr etwas zu **Opensource**, **Datensicherheit** oder **Nachhaltigkeit** zu sagen, zeigen, basteln habt. Natürlich interessieren uns aber auch alle anderen Cyber-Themen, die Ihr zu uns tragt. 
+Fühlt Euch herzlich eingeladen, wenn Ihr etwas zu **Opensource, Datensicherheit** oder **Nachhaltigkeit** zu sagen, zeigen, basteln habt. Natürlich interessieren uns aber auch alle anderen Cyber-Themen, die Ihr zu uns tragt.
 
 **Bei der R3S habt Ihr folgende Möglichkeiten:**
 - komplett live on Stage  - Corona 2G
@@ -115,11 +115,34 @@ Feel invited if you have something to say, show, tinker to **Open source**, **Da
 * web: https://r3s.nrw/
 * CfP: https://pretalx.c3voc.de/rc3-2021-r3s/
 
-## Chaosstudio Hamburg
+## Chaosstudio Hamburg – We feel homesick for the future
 
-Der CfP wird am 9.11. erscheinen. Thematisch konzentriert sich das Chaosstudio Hamburg auf eher regionale Formate. Ob Publikum vor Ort im Studio sein kann, klärt sich im Laufe des November.
 
-https://pretalx.c3voc.de/rc3-2021-chaosstudiohamburg/cfp
+![ccchh-logo-1](ccchh-logo-white-on-transparent.svg)
+![ccchh-logo-2](ccchh-logo-white-on-transparent-drop-shadow.svg)
+![ccchh-logo-3](ccchh-logo.svg)
+
+Wir haben Heimweh nach der Zukunft. Aus diesem Grund lädt das Chaosstudio Hamburg im Rahmen der JEV’21 zur Beteiligung ein.
+
+Wir freuen uns über Beiträge zu Wissenschaft und Technik, gerne auch mit regionalem Bezug. Oder künstlerische Beiträge wie Performances, Video Art, oder eine virtuelle Ausstellung? Ihr habt Inhalte, wir haben eine Bühne.
+
+Bitte sucht aus: einen Vortrag mit 30 Minuten Länge (plus Diskussion), oder einen Lightning Talk mit max. 10 Minuten. Für euer Kunstprojekt haben wir auf Wunsch auch flexible Zeitslots.
+
+Ihr könnt euren Beitrag live vor Ort in Hamburg in den Räumen es Chaos Computer Club Hamburg oder Remote per Videokonferenz halten. Ihr könnt den Vortrag natürlich auch vorher aufzeichnen, aber wir hätten gerne eine Live-Diskussion mit dem Publikum.
+
+Bitte sendet euren Vorschlag [im Konferenz-Management-System](https://pretalx.c3voc.de/rc3-2021-chaosstudiohamburg/cfp) bei uns ein. Be excellent to each other!
+
+---
+
+We feel homesick for the future. For this reason, Chaosstudio Hamburg invites you to participate in JEV'21.
+
+We're looking forward to your contribution from the fields of science or technology, especially if it is connected to the Hamburg region. Or artistic contributions like performances, video art, or a virtual exhibition? You have the content, we have the stage.
+
+Please choose: a talk/lecture 30 minutes in duration (plus q&a), or a lightning talk up to 10 minutes long. For your art project, we offer flexible time slots.
+
+You can present your contribution live on location at Chaos Computer Club Hamburg or remotely via video conference. You can also pre-record your talk, but we would like to have a live q&a with the audience.
+
+Please send your proposal [through the conference management system](https://pretalx.c3voc.de/rc3-2021-chaosstudiohamburg/cfp). Be excellent to each other!
 
 ## ChaosZone TV
 
@@ -182,10 +205,20 @@ Im Sendezentrum wird es wird ein Programm mit Live-Podcasts und Vorträgen zu Po
 
 ## haecksen
 
-"Just another day in Paradise", so lautet das Motto unter welchem die Haecksen mit euch das Jahr 2021 ausklingen lassen. Um das Jahresendevent auch wirklich zu einem Paradis zu machen brauchen wir dich, deine Ideen, deine Kreativität oder dein Know-How. Deshalb reiche deinen Talk, Workshop, Lightning-Talk oder Panel bei unserem CfP ein.
+["Just another day in Paradise"](https://events.haecksen.org/), so lautet das Motto unter welchem die [Haecksen](https://www.haecksen.org/) mit euch das Jahr 2021 ausklingen lassen. Um das Jahresendevent auch wirklich zu einem Paradis zu machen brauchen wir dich, deine Ideen, deine Kreativität oder dein Know-How. Deshalb reiche deinen Talk, Workshop, Lightning-Talk oder Panel bei unserem CfP ein.
 
 https://pretalx.c3voc.de/rc3-2021-haecksen/cfp
 
+Hast du vorab Fragen oder bist dir nicht sicher ob deine Idee reinpasst melde dich einfach bei uns unter event-orga2021[at]lists.haecksen.org.
+
+### english version
+["Just another day in Paradise"](https://events.haecksen.org/) is the motto under which the [Haecksen](https://www.haecksen.org/) will end the year 2021 with you. To make the year-end event really a paradise, we need you, your ideas, your creativity or your know-how. Therefore, submit your talk, workshop, lightning talk or panel to our CfP.
+
+https://pretalx.c3voc.de/rc3-2021-haecksen/cfp
+
+If you have any questions in advance or if you're not sure whether your idea fits, just contact us at event-orga2021 [at] lists.haecksen.org. 
+
+### Logos
 Jadip-Logo: ![jadip-logo](jadip-flat.svg)
 Haecksen-Logo: ![haecksen-logo](haecksen-logo-gruenblau.png)
 
