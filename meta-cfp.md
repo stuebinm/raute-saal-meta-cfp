@@ -205,10 +205,20 @@ Im Sendezentrum wird es wird ein Programm mit Live-Podcasts und Vorträgen zu Po
 
 ## haecksen
 
-"Just another day in Paradise", so lautet das Motto unter welchem die Haecksen mit euch das Jahr 2021 ausklingen lassen. Um das Jahresendevent auch wirklich zu einem Paradis zu machen brauchen wir dich, deine Ideen, deine Kreativität oder dein Know-How. Deshalb reiche deinen Talk, Workshop, Lightning-Talk oder Panel bei unserem CfP ein.
+["Just another day in Paradise"](https://events.haecksen.org/), so lautet das Motto unter welchem die [Haecksen](https://www.haecksen.org/) mit euch das Jahr 2021 ausklingen lassen. Um das Jahresendevent auch wirklich zu einem Paradis zu machen brauchen wir dich, deine Ideen, deine Kreativität oder dein Know-How. Deshalb reiche deinen Talk, Workshop, Lightning-Talk oder Panel bei unserem CfP ein.
 
 https://pretalx.c3voc.de/rc3-2021-haecksen/cfp
 
+Hast du vorab Fragen oder bist dir nicht sicher ob deine Idee reinpasst melde dich einfach bei uns unter event-orga2021[at]lists.haecksen.org.
+
+### english version
+["Just another day in Paradise"](https://events.haecksen.org/) is the motto under which the [Haecksen](https://www.haecksen.org/) will end the year 2021 with you. To make the year-end event really a paradise, we need you, your ideas, your creativity or your know-how. Therefore, submit your talk, workshop, lightning talk or panel to our CfP.
+
+https://pretalx.c3voc.de/rc3-2021-haecksen/cfp
+
+If you have any questions in advance or if you're not sure whether your idea fits, just contact us at event-orga2021 [at] lists.haecksen.org. 
+
+### Logos
 Jadip-Logo: ![jadip-logo](jadip-flat.svg)
 Haecksen-Logo: ![haecksen-logo](haecksen-logo-gruenblau.png)
 
