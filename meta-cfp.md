@@ -87,13 +87,27 @@ https://pretalx.c3voc.de/rc3-2021-chaosstudiohamburg/cfp
 
 ## ChaosZone TV
 
+### German
+
 Liebe Reisende,
 
 in einem wohlbekannten Land, vor gar nicht all zu langer Zeit fanden zwischen Weihnachten und Silvester Lebensformen zusammen, um zu berichten. Von guten und von schlechten Taten, von ihren Plänen und ihren Träumen. Geschichte wurde zur Legende, Legende wurde Mythos. Und zwischen flimmernden Schatten auf Bildschirmen in der Farbe eines Fernsehers, der auf einen toten Kanal geschaltet war …
 
 HALT. Da geht noch was.
 
-Auch wenn wir uns schon wieder nicht in Leipzig treffen können, wird euch die ChaosZone eine Bühne für eure Vorträge, Workshops, Projekte und Kunst-Performances bieten. Die Produktionskapazitäten des ChaosZone TV Hauptstadtstudios in Halle sind gesichert und die Werktätigen des CCCP arbeiten bereits unermüdlich an der Vorbereitung einer dezentralen Veranstaltung mit Bühne in Potsdam.
+Auch wenn wir uns schon wieder nicht in Leipzig treffen können, wird euch die ChaosZone eine Bühne für eure Vorträge, Projekte und Kunst-Performances bieten. Die Produktionskapazitäten des ChaosZone TV Hauptstadtstudios in Halle sind gesichert und die Werktätigen des CCCP arbeiten bereits unermüdlich an der Vorbereitung einer dezentralen Veranstaltung mit Bühne in Potsdam.
+
+https://pretalx.c3voc.de/rc3-2021-chaoszone/cfp
+
+### English
+
+Dear travelers,
+
+in a well known place, not long in the past, between Christmas and New Year's Eve, life forms came together to tell stories. Of good and of bad deeds, of their plans and their dreams. History became legend, legend became myth. And between flickering shadows on screens the color of television tuned to a dead channel ...
+
+STOP. There's still something here.
+
+Even if we once again can't meet in Leipzig, the ChaosZone will offer you a stage for your talks, projects and art performances. The production capacities of the ChaosZone TV capital studio in Halle are secured and the working people of the CCCP are already tirelessly preparing a decentralized event with a stage in Potsdam.
 
 https://pretalx.c3voc.de/rc3-2021-chaoszone/cfp
 
