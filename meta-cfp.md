@@ -168,7 +168,14 @@ There's $tool or $programming_language you have some experience in using? Teach 
 
 You may come to our "studio" in Bamberg if the situation between Christmas and New Year's permits it. In any case, there will be the possibility to join us from home with your webcam. The audience is going to be exclusively remote via live stream.
 
-## hacc muc & a:f
+## about:future / hackers against climate change München
+Was tun, während die Klimakrise weiter geht? Wo lässt sich ansetzen, und wie? An welchen Orten können Alternativen geschaffen werden – zum unentrinnbaren Straßenverkehr, zu nicht Recycle- oder Reparierbarem, zu Weltanschauungen, die von vornherein jede Veränderung als unmöglich betrachten? Und wie könnten die aussehen?
+Auch diesen Remote-Congress möchten wir ([hackers against climate change München](https://muc.hacc.earth/)) als Teil des about:future Clusters diesen Fragen eine Bühne geben.
+
+⚠ Achtung: Aus Kapazitätsgründen können wir leider nur ein kleines Programm mit Beiträgen livegestreamt von unserem lokalen Studio vor Ort in München umsetzen. Bitte versichert, dass ihr irgendwann vom 27.-30. da sein könnt. Reicht euren Beitrag gerne auch bei anderen Channels ein.
+
+[Zum CfP / Go to CfP](https://pretalx.c3voc.de/rc3-2021-hacc-a-f/cfp)
+
 ## Sendezentrum
 
 Im Sendezentrum wird es wird ein Programm mit Live-Podcasts und Vorträgen zu Podcasting-Themen geben. Das Sendezentrum ist virtuell, es gibt keine Präsenzbühne. https://sendegate.de/t/sendezentrum-rc3-2021-call-for-participation-live-podcasts-talks-workshops/14536
