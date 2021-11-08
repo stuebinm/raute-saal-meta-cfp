@@ -193,7 +193,7 @@ Hast du vorab Fragen oder bist dir nicht sicher ob deine Idee reinpasst melde di
 
 https://pretalx.c3voc.de/rc3-2021-haecksen/cfp
 
-Do you have any questions in advance or are you not sure whether your idea fits in, just contact us at event-orga2021 [at] lists.haecksen.org. 
+If you have any questions in advance or if you're not sure whether your idea fits, just contact us at event-orga2021 [at] lists.haecksen.org. 
 
 ### Logos
 Jadip-Logo: ![jadip-logo](jadip-flat.svg)
