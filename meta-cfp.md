@@ -35,6 +35,16 @@ Hinweis, ob es eine Präsenzbühe mit Publikum gibt oder ob es ein (virtuelles) 
 Link zum CfP
 
 ## FeM
+Soziale Probleme lassen sich durch Technik nicht lösen, die kann aber helfen. Vom Home-Lab bis zum Hyperscaler, vom Piratensender bis zur hoch professionellen Medienanstalt und der LAN-Verkabelung Zuhause bis zu interkontinentalen Weitverkehrsnetzen interessieren wir uns für deine Einreichung zur Technik selber, Ansätze diese kreativ zu nutzen, deren Einfluss auf unsere Gesellschaft, und warum bestimmte Dinge (eher nicht) getan werden sollten.
+
+https://pretalx.c3voc.de/rc3-2021-r3s/
+
+### english version
+
+Social problems cannot be solved by technology, but technology can help. From home labs to hyperscaler, from pirate radio stations to the highly professional media agencies and from home LAN cabling to intercontinental networks, we are interested in your submissions on technology itself, approaches to using it creatively, its influence on our society, and why certain things should (rather not) be done.
+
+https://pretalx.c3voc.de/rc3-2021-r3s/
+
 ## c-base
 
 Das Leistungsspectrum des c-base channel bietet konzeptionelle Beratungsleistungen und operative Prozessdienstleistungen für umfassenden Know-how-Transfer in einer starken Wertschöpfungskette.
