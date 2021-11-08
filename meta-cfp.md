@@ -93,7 +93,7 @@ Bitte sucht aus: einen Vortrag mit 30 Minuten Länge (plus Diskussion), oder ein
 
 Ihr könnt euren Beitrag live vor Ort in Hamburg in den Räumen es Chaos Computer Club Hamburg oder Remote per Videokonferenz halten. Ihr könnt den Vortrag natürlich auch vorher aufzeichnen, aber wir hätten gerne eine Live-Diskussion mit dem Publikum.
 
-Bitte sendet euren Vorschlag bis spätestens Mittwoch, den 24.11. 23:42 MEZ (Europa/Berlin) [im Konferenz-Management-System](https://pretalx.c3voc.de/rc3-2021-chaosstudiohamburg/cfp) bei uns ein. Be excellent to each other!
+Bitte sendet euren Vorschlag [im Konferenz-Management-System](https://pretalx.c3voc.de/rc3-2021-chaosstudiohamburg/cfp) bei uns ein. Be excellent to each other!
 
 ---
 
@@ -105,7 +105,7 @@ Please choose: a talk/lecture 30 minutes in duration (plus q&a), or a lightning 
 
 You can present your contribution live on location at Chaos Computer Club Hamburg or remotely via video conference. You can also pre-record your talk, but we would like to have a live q&a with the audience.
 
-Please send your proposal until Wednesday, November 11th, 23:42 CET (Europe/Berlin) [through the conference management system](https://pretalx.c3voc.de/rc3-2021-chaosstudiohamburg/cfp). Be excellent to each other!
+Please send your proposal [through the conference management system](https://pretalx.c3voc.de/rc3-2021-chaosstudiohamburg/cfp). Be excellent to each other!
 
 ## ChaosZone TV
 
