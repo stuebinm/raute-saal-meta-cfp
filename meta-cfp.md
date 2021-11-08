@@ -201,22 +201,7 @@ Ob (Netzwerk-)Politik, ökologische Themen, Präsentation der neuesten Sicherhei
 Es gibt genügend Platz für Workshops und die Grundausstattung wie Lötkolben, 3D-Drucker etc. ist auch vorhanden und kann genutzt werden.
 
 * Nur Online-Einreichungen
-Alle Vortragsvorschläge werden über unser Konferenz-Planungssystem eingereicht, das sich unter folgender Adresse befindet: [CfP](https://pretalx.c3voc.de/rc3-2021-xhain/cfp?). Vorträge sind normalerweise 40 oder 60 Minuten lang.
-Bitte folge den Anweisungen, die sich dort finden. Wenn Du etwas anderes als einen Vortrag (lecture) einreichen möchtest, oder mehr Zeit brauchst, oder schlicht Fragen bezüglich der Einreichung hast, kannst Du uns unter der E-Mailadresse Lichtung_content[at]x-hain.de erreichen.
-
-* Submission guidelines
-Bitte schicke uns eine sinnvolle, möglichst vollständige, aber nicht übermäßig lange Beschreibung Deines geplanten Vortrags. Diese Beschreibung hat einen großen Einfluss auf die Auswahl und sollte aussagekräftig sein. Qualität geht natürlich vor Quantität. Es ist nicht sinnvoll, Firmen- oder Produktpropaganda einzureichen, auch nicht verdeckte. Marketing- und Sales-Droiden verschwinden von dieser Veranstaltung, ohne eine Spur zu hinterlassen. Wir wollen einen kommerzfreien Congress gestalten.
-Da die meisten Teilnehmer hauptsächlich über den Titel auf Vorträge stoßen, sollte dieser verständlich, prägnant und für den Inhalt relevant sein. Das Content-Team wird darauf ein besonderes Augenmerk legen und bei Bedarf helfen. Wir behalten uns vor, bei Insider-Witzen in den Titeln Änderungsvorschläge zu machen und im Zweifel auch einen an sich guten Vortrag wegen unverständlichen Titels abzulehnen.
-Da die Chance besteht, dass mehrere Leute einen Talk zum gleichen oder ähnlichen Thema einreichen, zeige uns bitte ganz genau, warum ausgerechnet Dein Talk dabei sein sollte – denke daran, dass die Teams divers besetzt sind und nicht alle Kuratoren alle Einreichenden und deren Hintergrund kennen. Es kann hilfreich sein, bei der Einreichung etwas über Dich selbst, Deine Forschung oder Deine Motivation zu schreiben. Es ist uns vollkommen egal, ob der Talk schon einmal auf einer anderen Konferenz irgendwo auf dem Planeten stattgefunden hat. Wir bitten nur darum, dass der Inhalt aktuell ist und du uns mitteilst, wenn du in für den diesjährigen Congress noch bei einem anderen Channel eingereicht hast.f
-
-Vorträge können entweder 30 Minuten plus 10 Minuten für Fragen und Antworten oder 45 Minuten plus 15 Minuten für Fragen und Antworten lang sein. Ausnahmen bestätigen die Regel. Bitte überlege genau, wie lange Du wirklich für einen prägnanten Vortrag brauchen wirst, und teile uns bei der Einreichung mit, wie lang Dein Vortrag dauern soll.
-
-* Sprache
-Obwohl der Chaos Communication Congress eine internationale Veranstaltung ist und viele Inhalte auf Englisch präsentiert werden – wenn du dich auf Englisch nicht wohl fühlst, hab' keine Hemmungen, deinen Vortrag auf Deutsch zu halten. Wenn dein Vortrag in englischer Sprache gehalten wird, sollte deine Einreichung auch in englischer Sprache erfolgen.
-
-* Veröffentlichung
-Audio- und Videoaufzeichnungen der Vorträge werden in verschiedenen Formaten unter der Lizenz Creative Commons Attribution 4.0 International (CC BY 4.0) veröffentlicht. Diese Lizenz erlaubt die kommerzielle Nutzung von Auszügen durch Medieninstitutionen im Rahmen ihrer Berichterstattung. Wenn du keine Veröffentlichung oder Übertragung von Material aus deinem  Vortrag wünschst, teile uns dies bitte in deiner Einreichung mit.
-Hinweis: Da das deutsche Recht (und damit die Lizenz) vom Recht deines Landes abweichen kann, lass es uns bitte wissen, wenn du Fragen zu den genauen Auswirkungen haben. Leider können wir keine perfekte Übersetzung garantieren.
+Alle Vortragsvorschläge werden über unser Konferenz-Planungssystem eingereicht, das sich unter folgender Adresse befindet: [CfP](https://pretalx.c3voc.de/rc3-2021-xhain/cfp?). 
 
 
 English:
@@ -231,23 +216,6 @@ Whether (network) politics, ecological topics, presentation of the latest securi
 There is enough space for workshops and the basic equipment, such as soldering iron, 3D printer, etc., is also there and can be used.
 
 * Online submissions only
-All presentation proposals are submitted via our conference planning system, which is located at the following address: [CfP](https://pretalx.c3voc.de/rc3-2021-xhain/cfp?). Lectures are usually 40 or 60 minutes long.
-Please follow the instructions there. If you would like to submit something other than a lecture, or need more time, or simply have questions regarding the submission, you can contact us at Lichtung_content [at] x-hain.de.
-
-* Submission guidelines
-Please send us a meaningful, as complete as possible, but not excessively long description of your planned lecture. This description has a great influence on the selection and should be meaningful. Quality comes before quantity, of course. It doesn't make sense to submit corporate or product propaganda, even undercover. Marketing and sales droids are disappearing from this event without leaving a trace. We want to create a commercial-free congress.
-Since most participants come across presentations mainly through the title, it should be understandable, concise and relevant to the content. The content team will pay special attention to this and help if necessary. We reserve the right to make suggestions for changes to insider jokes in the titles and, in case of doubt, to reject a presentation that is actually good because the title is incomprehensible.
-Since there is a chance that several people will submit a talk on the same or a similar topic, please show us exactly why your talk should be there - remember that the teams are diverse and not all curators know all the submitters and their backgrounds . It can be helpful to write something about yourself, your research, or your motivation when submitting. We don't care if the talk took place at another conference somewhere on the planet. We only ask that the content is up-to-date and that you let us know if you have submitted it to another channel for this year's congress.
-Lectures can be either 30 minutes plus 10 minutes for questions and answers or 45 minutes plus 15 minutes for questions and answers. Exceptions prove the rule. Please think carefully how long you will really need for a concise presentation and let us know when you submit how long your presentation should last.
-
-* Language
-Although the Chaos Communication Congress is an international event and a lot of content is presented in English - if you are not comfortable with presenting in English, don’t hesitate to present your lecture in German. If your talk will be held in English, your submission should also be in English.
-
-* Publication
-Audio and video recordings of the lectures will be published in various formats under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. This license allows commercial use of excerpts by media institutions as part of their reporting. If you do not wish for material from your lecture to be published or streamed, please let us know in your submission.
-Note: As German law (and therefore the license) might differ from the law of your country, please let us know if you have any issues or questions regarding the exact implications. Unfortunately, we can’t guarantee a perfect translation.
-
-
-
+All presentation proposals are submitted via our conference planning system, which is located at the following address: [CfP](https://pretalx.c3voc.de/rc3-2021-xhain/cfp?). 
 
 xHain-Logo: ![xHain-logo](xhain.png)
