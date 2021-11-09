@@ -183,7 +183,7 @@ Wir bieten euch die Möglichkeit, euren Beitrag in unserem "Studio" in Bamberg z
 
 ### english version
 
-[franconian.net](https://franconian.net), a cluster of several franconian hackspaces (namely [Hackzogtum Coburg e.V.](https://hackzogtum-coburg.de), [Nerd2Nerd e.V.](https://nerd2nerd.org) and [backspace e.V.](https://hackerspace-bamberg.de)), invites you to submit your proposals for interesting talks, workshops and other performances **until 23rd of November 2021 at 23:42 CET** (that's **22:42 UTC**) to our Call for Participation (CfP).
+[franconian.net](https://franconian.net), a cluster of several franconian hackspaces (namely [Hackzogtum Coburg e.V.](https://hackzogtum-coburg.de), [Nerd2Nerd e.V.](https://nerd2nerd.org) and [backspace e.V.](https://hackerspace-bamberg.de)), invites you to submit your proposals for interesting talks, workshops and other performances **until 23rd of November 2021 at 23:42 CET** (that's **22:42 UTC**) to [our Call for Participation (CfP)](https://cfp.franconian.net/end-of-year-event-2021/cfp).
 
 You've got some interesting project that you want to show others? Enter your talk into our CfP now!
 
