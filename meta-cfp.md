@@ -237,9 +237,15 @@ Jadip-Logo: ![jadip-logo](jadip-flat.svg)
 Haecksen-Logo: ![haecksen-logo](haecksen-logo-gruenblau.png)
 
 ## Binary Kitchen
+
 ## xHain hack+makespace
-Deutsch:
-    
+
+## gehaktes from Hell
+gehacktes from hell
+
+...oder: Leben auf dem Land 
+In unserem Kanal beschäftigen wir uns mit allem, was Leute auf dem Land beschäftigt. Von Verkehrsanbindung, über politische Partizipation und Gleichberechtigung zu Klimawandel und Digitalisierung. Dabei wollen wir über den Tellerrand der Dorfgrenze hinaus in die Welt schauen, uns aber auch um die Herausforderungen kümmern, vor denen eine Stadtbevölkerung nicht steht.
+
 Der xHain öffnet seine Türen für den rc3.rev2!
 Wir freuen uns darauf, euch unter unseren Bäumen begrüßen zu dürfen.
 Dachtest du, dass du deine Ideen nicht mit einem Publikum teilen kannst, weil es keinen zentralen ChaosCommunicationCongress gibt? Du arbeitest an einem coolen Projekt und möchtest es bekannt machen? Hast du einen tollen Hack gefunden, den du mit anderen Menschen teilen willst? Du hast etwas kaputt gemacht und es sind spannende Dinge dabei passiert? Dann reich deinen Talk ein!
@@ -250,8 +256,12 @@ Es gibt genügend Platz für Workshops und die Grundausstattung wie Lötkolben, 
 * Nur Online-Einreichungen
 Alle Vortragsvorschläge werden über unser Konferenz-Planungssystem eingereicht, das sich unter folgender Adresse befindet: [CfP](https://pretalx.c3voc.de/rc3-2021-xhain/cfp?). 
 
+### englisch
+gehacktes from hell
 
-English:
+...or: Life in the countryside 
+In our channel we deal with everything that concerns people in the countryside. From transport connections, political participation and equal rights to climate change and digitalization. In doing so, we want to look beyond the village borders into the world, but also take care of the challenges that an urban population does not have to deal with.
+
 
 xHain will be opening its doors for the rc3.rev2!
 We look forward to welcoming you under our trees.
