@@ -224,3 +224,15 @@ Haecksen-Logo: ![haecksen-logo](haecksen-logo-gruenblau.png)
 
 ## Binary Kitchen
 ## xHain hack+makespace
+
+## gehaktes from Hell
+gehacktes from hell
+
+...oder: Leben auf dem Land 
+In unserem Kanal beschäftigen wir uns mit allem, was Leute auf dem Land beschäftigt. Von Verkehrsanbindung, über politische Partizipation und Gleichberechtigung zu Klimawandel und Digitalisierung. Dabei wollen wir über den Tellerrand der Dorfgrenze hinaus in die Welt schauen, uns aber auch um die Herausforderungen kümmern, vor denen eine Stadtbevölkerung nicht steht.
+
+### englisch
+gehacktes from hell
+
+...or: Life in the countryside 
+In our channel we deal with everything that concerns people in the countryside. From transport connections, political participation and equal rights to climate change and digitalization. In doing so, we want to look beyond the village borders into the world, but also take care of the challenges that an urban population does not have to deal with.
