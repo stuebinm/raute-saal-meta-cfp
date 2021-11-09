@@ -116,7 +116,7 @@ Fühlt Euch herzlich eingeladen, wenn Ihr etwas zu **Opensource, Datensicherheit
 **R3S - Sharks in Cyberspace**.
 Like last year, we will have a real stage with professional lighting, audio and streaming equipment. So if you want to have [almost ;-)] real stage feeling again, you are welcome to join us in the auditorium of the Volkshochschule in **Monheim am Rhein**. Monheim is located between the two big cities Cologne and Düsseldorf easily reachable by public transport.
 
-Feel invited if you have something to say, show, tinker to **Open source**, **Data Security** or **Sustainability**. Of course we are also interested in all other cyber topics you bring to us. 
+Feel invited if you have something to say, show, tinker to **Open source**, **Data Security** or **Sustainability**. Of course we are also interested in all other cyber topics you bring to us.
 
 **At R3S you have the following possibilities:**
 - fully live on stage - corona 2G
@@ -136,7 +136,7 @@ Feel invited if you have something to say, show, tinker to **Open source**, **Da
 ![ccchh-logo-2](ccchh-logo-white-on-transparent-drop-shadow.svg)
 ![ccchh-logo-3](ccchh-logo.svg)
 
-Wir haben Heimweh nach der Zukunft. Aus diesem Grund lädt das Chaosstudio Hamburg im Rahmen der JEV’21 zur Beteiligung ein.
+Wir haben Heimweh nach der Zukunft. Aus diesem Grund lädt das Chaosstudio Hamburg im Rahmen der [rC3](https://rc3.world) zur Beteiligung ein.
 
 Wir freuen uns über Beiträge zu Wissenschaft und Technik, gerne auch mit regionalem Bezug. Oder künstlerische Beiträge wie Performances, Video Art, oder eine virtuelle Ausstellung? Ihr habt Inhalte, wir haben eine Bühne.
 
@@ -148,7 +148,7 @@ Bitte sendet euren Vorschlag [im Konferenz-Management-System](https://pretalx.c3
 
 ---
 
-We feel homesick for the future. For this reason, Chaosstudio Hamburg invites you to participate in JEV'21.
+We feel homesick for the future. For this reason, Chaosstudio Hamburg invites you to participate in [rC3](https://rc3.world).
 
 We're looking forward to your contribution from the fields of science or technology, especially if it is connected to the Hamburg region. Or artistic contributions like performances, video art, or a virtual exhibition? You have the content, we have the stage.
 
@@ -230,7 +230,7 @@ Hast du vorab Fragen oder bist dir nicht sicher ob deine Idee reinpasst melde di
 
 https://pretalx.c3voc.de/rc3-2021-haecksen/cfp
 
-If you have any questions in advance or if you're not sure whether your idea fits, just contact us at event-orga2021 [at] lists.haecksen.org. 
+If you have any questions in advance or if you're not sure whether your idea fits, just contact us at event-orga2021 [at] lists.haecksen.org.
 
 ### Logos
 Jadip-Logo: ![jadip-logo](jadip-flat.svg)
