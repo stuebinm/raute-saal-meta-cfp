@@ -47,16 +47,30 @@ https://pretalx.c3voc.de/rc3-2021-r3s/
 
 ## c-base
 
-Das Leistungsspectrum des c-base channel bietet konzeptionelle Beratungsleistungen und operative Prozessdienstleistungen für umfassenden Know-how-Transfer in einer starken Wertschöpfungskette.
+### Deutsche Version:
 
-Ob Live oder Remote, wir suchen Dich und deine Ideen für die gemeinsame Entwicklung von hochwertigen und nachhaltigen Kontent aus den Bereichen Art & Beauty, Gesellschaft & Netzpolitik!
+Das Leistungsspektrum des c-base-Channels bietet konzeptionelle Beratungsleistungen und operative Prozessdienstleistungen für umfassenden Know-How-Transfer in einer starken Wertschöpfungskette.
 
-Die Marke c-base, mit ihrer mehrstufigen innovativen Multiplikatorenplattform, ist ein Lösungsansatz, um gesellschaftliche Herausforderungen, mit einem breiten systemisch-lösungsorientierten Communiy Beteiligungsprozess, zur Vermeidung von "Bullshit Bingo"
+Ob live oder remote: Wir suchen Dich und deine Ideen für die gemeinsame Entwicklung von hochwertigem und nachhaltigem Content aus den Bereichen Art & Beauty, Gesellschaft und Netzpolitik!
 
-Nutze auch Du die Möglichkeiten die Dir die größte Jahresendveranstaltung der Europäische Hackerszene zur Zusammenarbyte eröffnet und veröffentliche, in deinem ganz persönlich Zeitfenster, auf "c-base".
+Die Marke c-base, mit ihrer mehrstufigen innovativen Multiplikatorenplattform, ist ein Lösungsansatz, um sich gesellschaftliche Herausforderungen in einem breiten systemisch-lösungsorientierten Community-Beteiligungsprozess zu stellen. Dadurch vermeiden wir das übliche  "Bullshit-Bingo" und pflücken nicht nur  tief hängende Früchte!
+
+Nutze auch Du die Möglichkeiten, die Dir die größte Jahresendveranstaltung der europäischen Hackerszene zur Zusammenarbyte eröffnet und veröffentliche, in deinem ganz persönlich Zeitfenster, auf "c-base".
 
 https://pretalx.c3voc.de/rc3-2021-cbase/cfp
 
+### English version:
+
+The spectrum of the c-base channel service offers includes conceptual consulting services and operational process services for comprehensive know-how transfer in a strong added-value chain.
+
+Whether live or remote: We are looking for you and your ideas for the joint development of high-quality and sustainable content from the fields of art & beauty, society and internet politics!
+
+The c-base brand, with its multi-level innovative multiplier platform, is a problem-solving approach to address societal challenges in a broad systemic solution-oriented community participation process. We avoid the usual "bullshit bingo" and we don't only pick the low-hanging fruits!
+
+Take advantage of the opportunities that the biggest end-of-the-year event of the European hacker scene opens up for you and publish on "c-base" in your own personal time slot.
+
+
+https://pretalx.c3voc.de/rc3-2021-cbase/cfp
 
 ## digitallabor
 ## Chaos-West TV
