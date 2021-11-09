@@ -37,15 +37,16 @@ Link zum CfP
 ## FeM
 Soziale Probleme lassen sich durch Technik nicht lösen, die kann aber helfen. Vom Home-Lab bis zum Hyperscaler, vom Piratensender bis zur hoch professionellen Medienanstalt und der LAN-Verkabelung Zuhause bis zu interkontinentalen Weitverkehrsnetzen interessieren wir uns für deine Einreichung zur Technik selber, Ansätze diese kreativ zu nutzen, deren Einfluss auf unsere Gesellschaft, und warum bestimmte Dinge (eher nicht) getan werden sollten.
 
-https://pretalx.c3voc.de/rc3-2021-r3s/
+https://pretalx.c3voc.de/rc3-2021-fem/
 
 ### english version
 
 Social problems cannot be solved by technology, but technology can help. From home labs to hyperscaler, from pirate radio stations to the highly professional media agencies and from home LAN cabling to intercontinental networks, we are interested in your submissions on technology itself, approaches to using it creatively, its influence on our society, and why certain things should (rather not) be done.
 
-https://pretalx.c3voc.de/rc3-2021-r3s/
+https://pretalx.c3voc.de/rc3-2021-fem/
 
 ## c-base
+![cbase-logo](cbase_logo_claim_blue.png)
 
 ### Deutsche Version:
 
@@ -94,9 +95,11 @@ https://pretalx.c3voc.de/rc3-2021-cwtv/cfp
 Logo: cwtv_logo_vektor.svg
 
 ## R3S
+![r3s-logo](r3s_logo_vektor_blue1.svg)
 
 **R3S - Sharks in Cyberspace**
-Wie im letzten Jahr haben wir wieder eine echte Bühne mit professionellem Licht-, Audio- und Streamingequipment. Wer also mal wieder [fast ;-)] echtes Bühnenfeeling spüren möchte, kommt gerne zu uns in die Aula der Volkshochschule nach **Monheim am Rhein**. Monheim liegt verkehrsgünstig zwischen den beiden Großstädten Köln und Düsseldorf.
+
+Wie im letzten Jahr haben wir wieder eine echte Bühne mit Licht-, Audio- und Streamingequipment. Wer also mal wieder [fast ;-)] echtes Bühnenfeeling spüren möchte, kommt gerne zu uns in die Aula der Volkshochschule nach **Monheim am Rhein**. Monheim liegt verkehrsgünstig zwischen den beiden Großstädten Köln und Düsseldorf.
 
 Fühlt Euch herzlich eingeladen, wenn Ihr etwas zu **Opensource, Datensicherheit** oder **Nachhaltigkeit** zu sagen, zeigen, basteln habt. Natürlich interessieren uns aber auch alle anderen Cyber-Themen, die Ihr zu uns tragt.
 
@@ -114,7 +117,8 @@ Fühlt Euch herzlich eingeladen, wenn Ihr etwas zu **Opensource, Datensicherheit
 ### english version
 
 **R3S - Sharks in Cyberspace**.
-Like last year, we will have a real stage with professional lighting, audio and streaming equipment. So if you want to have [almost ;-)] real stage feeling again, you are welcome to join us in the auditorium of the Volkshochschule in **Monheim am Rhein**. Monheim is located between the two big cities Cologne and Düsseldorf easily reachable by public transport.
+
+Like last year, we will have a real stage with lighting, audio and streaming equipment. So if you want to have [almost ;-)] real stage feeling again, you are welcome to join us in the auditorium of the Volkshochschule in **Monheim am Rhein**. Monheim is located between the two big cities Cologne and Düsseldorf easily reachable by public transport.
 
 Feel invited if you have something to say, show, tinker to **Open source**, **Data Security** or **Sustainability**. Of course we are also interested in all other cyber topics you bring to us.
 
