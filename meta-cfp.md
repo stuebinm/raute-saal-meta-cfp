@@ -47,16 +47,30 @@ https://pretalx.c3voc.de/rc3-2021-r3s/
 
 ## c-base
 
-Das Leistungsspectrum des c-base channel bietet konzeptionelle Beratungsleistungen und operative Prozessdienstleistungen für umfassenden Know-how-Transfer in einer starken Wertschöpfungskette.
+### Deutsche Version:
 
-Ob Live oder Remote, wir suchen Dich und deine Ideen für die gemeinsame Entwicklung von hochwertigen und nachhaltigen Kontent aus den Bereichen Art & Beauty, Gesellschaft & Netzpolitik!
+Das Leistungsspektrum des c-base-Channels bietet konzeptionelle Beratungsleistungen und operative Prozessdienstleistungen für umfassenden Know-How-Transfer in einer starken Wertschöpfungskette.
 
-Die Marke c-base, mit ihrer mehrstufigen innovativen Multiplikatorenplattform, ist ein Lösungsansatz, um gesellschaftliche Herausforderungen, mit einem breiten systemisch-lösungsorientierten Communiy Beteiligungsprozess, zur Vermeidung von "Bullshit Bingo"
+Ob live oder remote: Wir suchen Dich und deine Ideen für die gemeinsame Entwicklung von hochwertigem und nachhaltigem Content aus den Bereichen Art & Beauty, Gesellschaft und Netzpolitik!
 
-Nutze auch Du die Möglichkeiten die Dir die größte Jahresendveranstaltung der Europäische Hackerszene zur Zusammenarbyte eröffnet und veröffentliche, in deinem ganz persönlich Zeitfenster, auf "c-base".
+Die Marke c-base, mit ihrer mehrstufigen innovativen Multiplikatorenplattform, ist ein Lösungsansatz, um sich gesellschaftliche Herausforderungen in einem breiten systemisch-lösungsorientierten Community-Beteiligungsprozess zu stellen. Dadurch vermeiden wir das übliche  "Bullshit-Bingo" und pflücken nicht nur  tief hängende Früchte!
+
+Nutze auch Du die Möglichkeiten, die Dir die größte Jahresendveranstaltung der europäischen Hackerszene zur Zusammenarbyte eröffnet und veröffentliche, in deinem ganz persönlich Zeitfenster, auf "c-base".
 
 https://pretalx.c3voc.de/rc3-2021-cbase/cfp
 
+### English version:
+
+The spectrum of the c-base channel service offers includes conceptual consulting services and operational process services for comprehensive know-how transfer in a strong added-value chain.
+
+Whether live or remote: We are looking for you and your ideas for the joint development of high-quality and sustainable content from the fields of art & beauty, society and internet politics!
+
+The c-base brand, with its multi-level innovative multiplier platform, is a problem-solving approach to address societal challenges in a broad systemic solution-oriented community participation process. We avoid the usual "bullshit bingo" and we don't only pick the low-hanging fruits!
+
+Take advantage of the opportunities that the biggest end-of-the-year event of the European hacker scene opens up for you and publish on "c-base" in your own personal time slot.
+
+
+https://pretalx.c3voc.de/rc3-2021-cbase/cfp
 
 ## digitallabor
 ## Chaos-West TV
@@ -102,7 +116,7 @@ Fühlt Euch herzlich eingeladen, wenn Ihr etwas zu **Opensource, Datensicherheit
 **R3S - Sharks in Cyberspace**.
 Like last year, we will have a real stage with professional lighting, audio and streaming equipment. So if you want to have [almost ;-)] real stage feeling again, you are welcome to join us in the auditorium of the Volkshochschule in **Monheim am Rhein**. Monheim is located between the two big cities Cologne and Düsseldorf easily reachable by public transport.
 
-Feel invited if you have something to say, show, tinker to **Open source**, **Data Security** or **Sustainability**. Of course we are also interested in all other cyber topics you bring to us. 
+Feel invited if you have something to say, show, tinker to **Open source**, **Data Security** or **Sustainability**. Of course we are also interested in all other cyber topics you bring to us.
 
 **At R3S you have the following possibilities:**
 - fully live on stage - corona 2G
@@ -122,7 +136,7 @@ Feel invited if you have something to say, show, tinker to **Open source**, **Da
 ![ccchh-logo-2](ccchh-logo-white-on-transparent-drop-shadow.svg)
 ![ccchh-logo-3](ccchh-logo.svg)
 
-Wir haben Heimweh nach der Zukunft. Aus diesem Grund lädt das Chaosstudio Hamburg im Rahmen der JEV’21 zur Beteiligung ein.
+Wir haben Heimweh nach der Zukunft. Aus diesem Grund lädt das Chaosstudio Hamburg im Rahmen der [rC3](https://rc3.world) zur Beteiligung ein.
 
 Wir freuen uns über Beiträge zu Wissenschaft und Technik, gerne auch mit regionalem Bezug. Oder künstlerische Beiträge wie Performances, Video Art, oder eine virtuelle Ausstellung? Ihr habt Inhalte, wir haben eine Bühne.
 
@@ -134,7 +148,7 @@ Bitte sendet euren Vorschlag [im Konferenz-Management-System](https://pretalx.c3
 
 ---
 
-We feel homesick for the future. For this reason, Chaosstudio Hamburg invites you to participate in JEV'21.
+We feel homesick for the future. For this reason, Chaosstudio Hamburg invites you to participate in [rC3](https://rc3.world).
 
 We're looking forward to your contribution from the fields of science or technology, especially if it is connected to the Hamburg region. Or artistic contributions like performances, video art, or a virtual exhibition? You have the content, we have the stage.
 
@@ -183,7 +197,7 @@ Wir bieten euch die Möglichkeit, euren Beitrag in unserem "Studio" in Bamberg z
 
 ### english version
 
-[franconian.net](https://franconian.net), a cluster of several franconian hackspaces (namely [Hackzogtum Coburg e.V.](https://hackzogtum-coburg.de), [Nerd2Nerd e.V.](https://nerd2nerd.org) and [backspace e.V.](https://hackerspace-bamberg.de)), invites you to submit your proposals for interesting talks, workshops and other performances **until 23rd of November 2021 at 23:42 CET** (that's **22:42 UTC**) to our Call for Participation (CfP).
+[franconian.net](https://franconian.net), a cluster of several franconian hackspaces (namely [Hackzogtum Coburg e.V.](https://hackzogtum-coburg.de), [Nerd2Nerd e.V.](https://nerd2nerd.org) and [backspace e.V.](https://hackerspace-bamberg.de)), invites you to submit your proposals for interesting talks, workshops and other performances **until 23rd of November 2021 at 23:42 CET** (that's **22:42 UTC**) to [our Call for Participation (CfP)](https://cfp.franconian.net/end-of-year-event-2021/cfp).
 
 You've got some interesting project that you want to show others? Enter your talk into our CfP now!
 
@@ -216,13 +230,14 @@ Hast du vorab Fragen oder bist dir nicht sicher ob deine Idee reinpasst melde di
 
 https://pretalx.c3voc.de/rc3-2021-haecksen/cfp
 
-If you have any questions in advance or if you're not sure whether your idea fits, just contact us at event-orga2021 [at] lists.haecksen.org. 
+If you have any questions in advance or if you're not sure whether your idea fits, just contact us at event-orga2021 [at] lists.haecksen.org.
 
 ### Logos
 Jadip-Logo: ![jadip-logo](jadip-flat.svg)
 Haecksen-Logo: ![haecksen-logo](haecksen-logo-gruenblau.png)
 
 ## Binary Kitchen
+
 ## xHain hack+makespace
 
 ## gehaktes from Hell
@@ -231,8 +246,33 @@ gehacktes from hell
 ...oder: Leben auf dem Land 
 In unserem Kanal beschäftigen wir uns mit allem, was Leute auf dem Land beschäftigt. Von Verkehrsanbindung, über politische Partizipation und Gleichberechtigung zu Klimawandel und Digitalisierung. Dabei wollen wir über den Tellerrand der Dorfgrenze hinaus in die Welt schauen, uns aber auch um die Herausforderungen kümmern, vor denen eine Stadtbevölkerung nicht steht.
 
+Der xHain öffnet seine Türen für den rc3.rev2!
+Wir freuen uns darauf, euch unter unseren Bäumen begrüßen zu dürfen.
+Dachtest du, dass du deine Ideen nicht mit einem Publikum teilen kannst, weil es keinen zentralen ChaosCommunicationCongress gibt? Du arbeitest an einem coolen Projekt und möchtest es bekannt machen? Hast du einen tollen Hack gefunden, den du mit anderen Menschen teilen willst? Du hast etwas kaputt gemacht und es sind spannende Dinge dabei passiert? Dann reich deinen Talk ein!
+Zwischen Bäumen und unter leuchtenden Wolken findet ihr die Lichtung - unsere Bühne für eure Gespräche und Diskussionen.
+Ob (Netzwerk-)Politik, ökologische Themen, Präsentation der neuesten Sicherheitsthreads oder spannende Hack+Make-Projekte – wir freuen uns auf eure Einreichungen.
+Es gibt genügend Platz für Workshops und die Grundausstattung wie Lötkolben, 3D-Drucker etc. ist auch vorhanden und kann genutzt werden.
+
+* Nur Online-Einreichungen
+Alle Vortragsvorschläge werden über unser Konferenz-Planungssystem eingereicht, das sich unter folgender Adresse befindet: [CfP](https://pretalx.c3voc.de/rc3-2021-xhain/cfp?). 
+
 ### englisch
 gehacktes from hell
 
 ...or: Life in the countryside 
 In our channel we deal with everything that concerns people in the countryside. From transport connections, political participation and equal rights to climate change and digitalization. In doing so, we want to look beyond the village borders into the world, but also take care of the challenges that an urban population does not have to deal with.
+
+
+xHain will be opening its doors for the rc3.rev2!
+We look forward to welcoming you under our trees.
+Do you think that because there's no central ChaosCommunicationCongress you won't be able to share your ideas in front of a audience? Do you work on a cool project and want to get the word out? Did you come up with an awesome hack that
+you need to share? Did you break something and exciting things happened in the process?
+Go ahead and enter your lecture now!
+Between trees and under glowing clouds you'll find the 'Lichtung' (clearing) - our stage for your talks and discussions.
+Whether (network) politics, ecological topics, presentation of the latest security threats or exciting hack + make projects - we look forward to your submission.
+There is enough space for workshops and the basic equipment, such as soldering iron, 3D printer, etc., is also there and can be used.
+
+* Online submissions only
+All presentation proposals are submitted via our conference planning system, which is located at the following address: [CfP](https://pretalx.c3voc.de/rc3-2021-xhain/cfp?). 
+
+xHain-Logo: ![xHain-logo](xhain.png)
