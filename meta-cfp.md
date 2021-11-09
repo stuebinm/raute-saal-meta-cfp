@@ -28,9 +28,8 @@ Wenn ihr eine solche Kuration nicht wünscht, bitte schreibt es explizit in eure
 # Channels
 Die in alphabetischer Reihenfolge sortierte Liste von Channels beschreibt das Konzept und die Themen in einem kurzen Absatz.  Weitere Details finden sich jeweils im verlinkten CfP des Channels.
 
-
 ## rc1 / Main Track 
-Im Gegensatz zum letzten Jahr, wird es dieses Jahr keinen dedizierten Call for Participation oder Produktionsstätte für einen main track geben. 
+Im Gegensatz zum letzten Jahr, wird es dieses Jahr keinen Main Track geben. Aus diesem Grund gibt es auch keinen dedizierten Call for Participation für einen Main Track.
 
 ## FeM
 Soziale Probleme lassen sich durch Technik nicht lösen, die kann aber helfen. Vom Home-Lab bis zum Hyperscaler, vom Piratensender bis zur hoch professionellen Medienanstalt und der LAN-Verkabelung Zuhause bis zu interkontinentalen Weitverkehrsnetzen interessieren wir uns für deine Einreichung zur Technik selber, Ansätze diese kreativ zu nutzen, deren Einfluss auf unsere Gesellschaft, und warum bestimmte Dinge (eher nicht) getan werden sollten.
@@ -154,35 +153,34 @@ Alle Vortragsvorschläge werden über unser Konferenz-Planungssystem eingereicht
 
 
 # [RC3 2021 - NOWHERE] Meta-Call for Participation
-Entgegen aller Erwartungen, Hoffnungen und Wünsche gibt es auch dieses Jahr noch keinen Präsenz-Congress. Aber es wird aller Wahrscheinlichkeit auch keinen reinen remote Congress geben. Aber es wird keine Wiederholung vom letzten Jahr geben. Es wird eine Neuauflage sein, da es einen dezentralen (remote) Congress geben wird. Lokale Spaces werden Events hosten, es wird verteile (virtuelle) Bühnen geben.
+In contrast to our expectations, our wishes or our dreams, there won't be any in person congress this year. But also in contrast, there won't a remote only congress. This year, we are doing a distributed and decentral event that has also remote aspects. Local spaces are hosting (virtual) events on their stages.
 
-Diese Bühnen werden von eigenständigen Channels betreut. Jeder dieser Channels hat ein eigenes Fachgebiet. Jeder dieser Channel hat einen eigenen Call for Participation.
+Those stages will be be managed by their respective channesl. Every channels has its own topics and call for participation.
 
-In diesem Meta-CfP wollen wir uns als Channels vorstellen. Wir wollen euch aber auch unseren gemeinsamen Konsens über das, was wir auf dem RC3 2021 - NOWHERE wollen, transparent darlegen.
+We will present all of those in this Call for Participation. 
 
-# Gemeinsame Spielregeln
-Im Vorfeld haben wir uns auf gemeinsame [Spielregeln](https://c3voc.de/wiki/events:jahresendveranstaltung2021:call_for_productionplaces) geeinigt.  Diese Spielregeln betreffen alle Einreichungen in den Channels.
+# Common Rules
+We had agreed on some common [rules](https://c3voc.de/wiki/events:jahresendveranstaltung2021:call_for_productionplaces), that we are going to present in the following.
 
 ## Deadlines
-Am **24. November um 23:42 Uhr** in der Zeitzone `Europe/Berlin` **endet das Zeitfenster für die Einreichungen** bei allen Channels.  Im Sinne des Fair Play wird es keine Ausnahmen geben.
+The **content submission deadline** is **24 of November at 23:42**  `Europe/Berlin`-Timezone. As aspect of fair play, of the channels will accept any later submission.
 
-Wir, also die Channels, werden die Einreichungen im nächsten Schritt sichten und euch dann bis zum **4. Dezember um 23:42 Uhr** über die Annahme oder Ablehnung informieren.
+Afterwards, there will be the respective content meetings. Our **notification date** is **4th Dezember at  23:42 Uhr**.
 
-## Mehrfacheinreichungen
-Es gibt eine Vielzahl von verschiedenen Channels - somit auch eine Vielzahl von Möglichkeiten, einen Beitrag einzureichen. Bitte gebt bei euren Einreichungen an, ob und bei welchen anderen Channels ihr euch beworben habt.
+## Multiple Submissions
+There are a lot of channels and thus there are a lot of possibilities to submit content. Please state with your submission on which channels are submitting your content.
 
-Die Channels werden dann gemeinsam entscheiden, welcher Channel euch hosten wird.
+In case of multiple submission there will be a decision which channel will host you. 
 
-## Content-Kuration
-Solltet ihr bei einem Channel einreichen und es stellt sich heraus, dass ein anderer Channel das Thema besser abdeckt, würden wir eure Einreichung an diesen Channel weitergeben.
+## Content Curation
+If you submit to one channel but the content team of that channel decised that another channel might cover your talk better, we will forward to your submission to the matching channel. If there are two nearly identical submissions on different channels, we might ask you to merge them.
 
-Manchmal ergibt es sich auch, dass es zwei fast identische Vorträge gibt. In diesem Fall würden wir euch als Einreichende kontaktieren und eine Lösung (z.B. das Zusammenfassen)  euch vorschlagen.
-
-Wenn ihr eine solche Kuration nicht wünscht, bitte schreibt es explizit in eurer Einreichung dazu.
 
 # Channels
-Die in chaotische Reihenfolge sortierte Liste von Channels beschreibt das Konzept und die Themen in einem kurzen Absatz.  Weitere Details finden sich jeweils im verlinkten CfP des Channels.
+The following list of channels is sorted by chaos and magick and presents you the channels and their topics.
 
+## RC1 / Main Track
+In contrast to last year, there will be dedicated channels as main track. Thus, there won't be any Call for Participation for a main track on the RC3 2021 NOWHERE. 
 
 
 ## FeM
@@ -271,10 +269,6 @@ MISSING
 https://pretalx.c3voc.de/rc3-2021-haecksen/cfp
 
 If you have any questions in advance or if you're not sure whether your idea fits, just contact us at event-orga2021 [at] lists.haecksen.org.
-
-
-
-## Binary Kitchen
 
 ## xHain hack+makespace
 gehacktes from hell
