@@ -224,3 +224,31 @@ Haecksen-Logo: ![haecksen-logo](haecksen-logo-gruenblau.png)
 
 ## Binary Kitchen
 ## xHain hack+makespace
+Deutsch:
+    
+Der xHain öffnet seine Türen für den rc3.rev2!
+Wir freuen uns darauf, euch unter unseren Bäumen begrüßen zu dürfen.
+Dachtest du, dass du deine Ideen nicht mit einem Publikum teilen kannst, weil es keinen zentralen ChaosCommunicationCongress gibt? Du arbeitest an einem coolen Projekt und möchtest es bekannt machen? Hast du einen tollen Hack gefunden, den du mit anderen Menschen teilen willst? Du hast etwas kaputt gemacht und es sind spannende Dinge dabei passiert? Dann reich deinen Talk ein!
+Zwischen Bäumen und unter leuchtenden Wolken findet ihr die Lichtung - unsere Bühne für eure Gespräche und Diskussionen.
+Ob (Netzwerk-)Politik, ökologische Themen, Präsentation der neuesten Sicherheitsthreads oder spannende Hack+Make-Projekte – wir freuen uns auf eure Einreichungen.
+Es gibt genügend Platz für Workshops und die Grundausstattung wie Lötkolben, 3D-Drucker etc. ist auch vorhanden und kann genutzt werden.
+
+* Nur Online-Einreichungen
+Alle Vortragsvorschläge werden über unser Konferenz-Planungssystem eingereicht, das sich unter folgender Adresse befindet: [CfP](https://pretalx.c3voc.de/rc3-2021-xhain/cfp?). 
+
+
+English:
+
+xHain will be opening its doors for the rc3.rev2!
+We look forward to welcoming you under our trees.
+Do you think that because there's no central ChaosCommunicationCongress you won't be able to share your ideas in front of a audience? Do you work on a cool project and want to get the word out? Did you come up with an awesome hack that
+you need to share? Did you break something and exciting things happened in the process?
+Go ahead and enter your lecture now!
+Between trees and under glowing clouds you'll find the 'Lichtung' (clearing) - our stage for your talks and discussions.
+Whether (network) politics, ecological topics, presentation of the latest security threats or exciting hack + make projects - we look forward to your submission.
+There is enough space for workshops and the basic equipment, such as soldering iron, 3D printer, etc., is also there and can be used.
+
+* Online submissions only
+All presentation proposals are submitted via our conference planning system, which is located at the following address: [CfP](https://pretalx.c3voc.de/rc3-2021-xhain/cfp?). 
+
+xHain-Logo: ![xHain-logo](xhain.png)
