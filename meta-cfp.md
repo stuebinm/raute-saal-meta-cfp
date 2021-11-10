@@ -28,7 +28,7 @@ Wenn ihr eine solche Kuration nicht wünscht, bitte schreibt es explizit in eure
 # Channels
 Die in alphabetischer Reihenfolge sortierte Liste von Channels beschreibt das Konzept und die Themen in einem kurzen Absatz.  Weitere Details finden sich jeweils im verlinkten CfP des Channels.
 
-## rc1 / Main Track 
+## rc1 / Main Track
 Im Gegensatz zum letzten Jahr, wird es dieses Jahr keinen Main Track geben. Aus diesem Grund gibt es auch keinen dedizierten Call for Participation für einen Main Track.
 
 ## FeM
@@ -76,9 +76,6 @@ CfP: https://pretalx.c3voc.de/rc3-2021-r3s/
 
 ## Chaosstudio Hamburg – We feel homesick for the future
 
-
-![ccchh-logo-1](ccchh-logo-white-on-transparent.svg)
-![ccchh-logo-2](ccchh-logo-white-on-transparent-drop-shadow.svg)
 ![ccchh-logo-3](ccchh-logo.svg)
 
 Wir haben Heimweh nach der Zukunft. Aus diesem Grund lädt das Chaosstudio Hamburg im Rahmen der [rC3](https://rc3.world) zur Beteiligung ein.
@@ -138,7 +135,7 @@ Hast du vorab Fragen oder bist dir nicht sicher ob deine Idee reinpasst melde di
 ## xHain hack+makespace
 gehacktes from hell
 
-...oder: Leben auf dem Land 
+...oder: Leben auf dem Land
 In unserem Kanal beschäftigen wir uns mit allem, was Leute auf dem Land beschäftigt. Von Verkehrsanbindung, über politische Partizipation und Gleichberechtigung zu Klimawandel und Digitalisierung. Dabei wollen wir über den Tellerrand der Dorfgrenze hinaus in die Welt schauen, uns aber auch um die Herausforderungen kümmern, vor denen eine Stadtbevölkerung nicht steht.
 
 Der xHain öffnet seine Türen für den rc3.rev2!
@@ -149,7 +146,7 @@ Ob (Netzwerk-)Politik, ökologische Themen, Präsentation der neuesten Sicherhei
 Es gibt genügend Platz für Workshops und die Grundausstattung wie Lötkolben, 3D-Drucker etc. ist auch vorhanden und kann genutzt werden.
 
 * Nur Online-Einreichungen
-Alle Vortragsvorschläge werden über unser Konferenz-Planungssystem eingereicht, das sich unter folgender Adresse befindet: [CfP](https://pretalx.c3voc.de/rc3-2021-xhain/cfp?). 
+Alle Vortragsvorschläge werden über unser Konferenz-Planungssystem eingereicht, das sich unter folgender Adresse befindet: [CfP](https://pretalx.c3voc.de/rc3-2021-xhain/cfp?).
 
 
 # [RC3 2021 - NOWHERE] Meta-Call for Participation
@@ -157,7 +154,7 @@ In contrast to our expectations, our wishes or our dreams, there won't be any in
 
 Those stages will be be managed by their respective channesl. Every channels has its own topics and call for participation.
 
-We will present all of those in this Call for Participation. 
+We will present all of those in this Call for Participation.
 
 # Common Rules
 We had agreed on some common [rules](https://c3voc.de/wiki/events:jahresendveranstaltung2021:call_for_productionplaces), that we are going to present in the following.
@@ -170,7 +167,7 @@ Afterwards, there will be the respective content meetings. Our **notification da
 ## Multiple Submissions
 There are a lot of channels and thus there are a lot of possibilities to submit content. Please state with your submission on which channels are submitting your content.
 
-In case of multiple submission there will be a decision which channel will host you. 
+In case of multiple submission there will be a decision which channel will host you.
 
 ## Content Curation
 If you submit to one channel but the content team of that channel decised that another channel might cover your talk better, we will forward to your submission to the matching channel. If there are two nearly identical submissions on different channels, we might ask you to merge them.
@@ -180,7 +177,7 @@ If you submit to one channel but the content team of that channel decised that a
 The following list of channels is sorted by chaos and magick and presents you the channels and their topics.
 
 ## RC1 / Main Track
-In contrast to last year, there will be dedicated channels as main track. Thus, there won't be any Call for Participation for a main track on the RC3 2021 NOWHERE. 
+In contrast to last year, there will be dedicated channels as main track. Thus, there won't be any Call for Participation for a main track on the RC3 2021 NOWHERE.
 
 
 ## FeM
@@ -225,6 +222,8 @@ Feel invited if you have something to say, show, tinker to **Open source**, **Da
 CfP: https://pretalx.c3voc.de/rc3-2021-r3s/
 
 ## Chaosstudio Hamburg – We feel homesick for the future
+
+![ccchh-logo-3](ccchh-logo.svg)
 
 We feel homesick for the future. For this reason, Chaosstudio Hamburg invites you to participate in [rC3](https://rc3.world).
 
@@ -273,7 +272,7 @@ If you have any questions in advance or if you're not sure whether your idea fit
 ## xHain hack+makespace
 gehacktes from hell
 
-...or: Life in the countryside 
+...or: Life in the countryside
 In our channel we deal with everything that concerns people in the countryside. From transport connections, political participation and equal rights to climate change and digitalization. In doing so, we want to look beyond the village borders into the world, but also take care of the challenges that an urban population does not have to deal with.
 
 
@@ -287,4 +286,4 @@ Whether (network) politics, ecological topics, presentation of the latest securi
 There is enough space for workshops and the basic equipment, such as soldering iron, 3D printer, etc., is also there and can be used.
 
 * Online submissions only
-All presentation proposals are submitted via our conference planning system, which is located at the following address: [CfP](https://pretalx.c3voc.de/rc3-2021-xhain/cfp?). 
+All presentation proposals are submitted via our conference planning system, which is located at the following address: [CfP](https://pretalx.c3voc.de/rc3-2021-xhain/cfp?).
