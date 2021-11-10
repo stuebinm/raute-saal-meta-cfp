@@ -222,6 +222,8 @@ Like last year, we will have at the [RemoteRheinRuhrStage](https://r3s.nrw) a re
 
 Feel invited if you have something to say, show, tinker to **Open source**, **Data Security** or **Sustainability**. Of course we are also interested in all other cyber topics you bring to us.
 
+You can present your contribution **live on location** in Monheim am Rhein or **remotely** via video conference. You can also **pre-record** your talk, but we would like to have a live q&a with the audience.
+
 CfP: https://pretalx.c3voc.de/rc3-2021-r3s/
 
 ## Chaosstudio Hamburg – We feel homesick for the future
