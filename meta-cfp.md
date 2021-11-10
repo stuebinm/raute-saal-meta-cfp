@@ -1,9 +1,9 @@
-# [RC3 2021 - NOWHERE] Meta-Call for Participation
+# [rC3 2021 - NOWHERE] Meta-Call for Participation
 Entgegen aller Erwartungen, Hoffnungen und Wünsche gibt es auch dieses Jahr noch keinen Präsenz-Congress. Aber es wird aller Wahrscheinlichkeit auch keinen reinen remote Congress geben. Aber es wird keine Wiederholung vom letzten Jahr geben. Es wird eine Neuauflage sein, da es einen dezentralen (remote) Congress geben wird. Lokale Spaces werden Events hosten, es wird verteile (virtuelle) Bühnen geben.
 
 Diese Bühnen werden von eigenständigen Channels betreut. Jeder dieser Channels hat ein eigenes Fachgebiet. Jeder dieser Channel hat einen eigenen Call for Participation.
 
-In diesem Meta-CfP wollen wir uns als Channels vorstellen. Wir wollen euch aber auch unseren gemeinsamen Konsens über das, was wir auf dem RC3 2021 - NOWHERE wollen, transparent darlegen.
+In diesem Meta-CfP wollen wir uns als Channels vorstellen. Wir wollen euch aber auch unseren gemeinsamen Konsens über das, was wir auf dem rC3 2021 - NOWHERE wollen, transparent darlegen.
 
 # Gemeinsame Spielregeln
 Im Vorfeld haben wir uns auf gemeinsame [Spielregeln](https://c3voc.de/wiki/events:jahresendveranstaltung2021:call_for_productionplaces) geeinigt.  Diese Spielregeln betreffen alle Einreichungen in den Channels.
@@ -149,35 +149,37 @@ Es gibt genügend Platz für Workshops und die Grundausstattung wie Lötkolben, 
 Alle Vortragsvorschläge werden über unser Konferenz-Planungssystem eingereicht, das sich unter folgender Adresse befindet: [CfP](https://pretalx.c3voc.de/rc3-2021-xhain/cfp?).
 
 
-# [RC3 2021 - NOWHERE] Meta-Call for Participation
-In contrast to our expectations, our wishes or our dreams, there won't be any in person congress this year. But also in contrast, there won't a remote only congress. This year, we are doing a distributed and decentral event that has also remote aspects. Local spaces are hosting (virtual) events on their stages.
+# [rC3 2021 - NOWHERE] Meta-Call for Participation
 
-Those stages will be be managed by their respective channesl. Every channels has its own topics and call for participation.
+Against all our expectations, wishes and dreams, there won't be an in-person Congress again this year. But in all likelyhood, it won't be a fully remote Congress either. And it won't be just a repeat of last year. It's going to be a new de-centralized (remote) Congress, with local spaces hosting events and distributed stages.
 
-We will present all of those in this Call for Participation.
+The stages are managed by individual channels. Each channel has their own focus. Each channel has their own Call for Participation.
+
+In this Meta CfP, we're presenting all of the channels. We also want to make transparent what we want to present at rC3 - NOWHERE.
 
 # Common Rules
-We had agreed on some common [rules](https://c3voc.de/wiki/events:jahresendveranstaltung2021:call_for_productionplaces), that we are going to present in the following.
+We have agreed on some common [rules](https://c3voc.de/wiki/events:jahresendveranstaltung2021:call_for_productionplaces). These apply to any submission to all channels.
 
 ## Deadlines
-The **content submission deadline** is **24 of November at 23:42**  `Europe/Berlin`-Timezone. As aspect of fair play, of the channels will accept any later submission.
+The **content submission deadline** is **24th November at 23:42**  `Europe/Berlin`. In the interest of fair play, there will be no exceptions.
 
-Afterwards, there will be the respective content meetings. Our **notification date** is **4th Dezember at  23:42 Uhr**.
+In the next step, we, the channels, will review the submissions, and will let you know about acceptance or rejection by **4th December at 23:42**.
 
 ## Multiple Submissions
-There are a lot of channels and thus there are a lot of possibilities to submit content. Please state with your submission on which channels are submitting your content.
+There are a lot of channels and thus there are a lot of possibilities to submit content. Please state with your submission to which channels you are submitting your content.
 
-In case of multiple submission there will be a decision which channel will host you.
+In case of multiple submissions there will be a decision as to which channel will host you.
 
 ## Content Curation
-If you submit to one channel but the content team of that channel decised that another channel might cover your talk better, we will forward to your submission to the matching channel. If there are two nearly identical submissions on different channels, we might ask you to merge them.
+If you submit to one channel but the content team of that channel determines that another channel might better suit your talk, we will forward to your submission to the matching channel. If there are two nearly identical submissions on different channels, we might ask you to merge them.
 
+If you would rather not be subject to this curation, please state so in your submission.
 
 # Channels
-The following list of channels is sorted by chaos and magick and presents you the channels and their topics.
+The following list of channels is sorted by chaos and magick and presents the channels and their topics. You'll find further inforation in the linked CfPs.
 
 ## RC1 / Main Track
-In contrast to last year, there will be dedicated channels as main track. Thus, there won't be any Call for Participation for a main track on the RC3 2021 NOWHERE.
+In contrast to last year, there will be no dedicated channels as main track. Thus, there won't be any Call for Participation for a main track at rC3 2021 NOWHERE.
 
 
 ## FeM
