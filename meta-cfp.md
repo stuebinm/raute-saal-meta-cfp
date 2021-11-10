@@ -141,6 +141,15 @@ Hast du vorab Fragen oder bist dir nicht sicher, ob deine Idee reinpasst - melde
 ...oder: Leben auf dem Land
 In unserem Kanal beschäftigen wir uns mit allem, was Leute auf dem Land beschäftigt. Von Verkehrsanbindung, über politische Partizipation und Gleichberechtigung zu Klimawandel und Digitalisierung. Dabei wollen wir über den Tellerrand der Dorfgrenze hinaus in die Welt schauen, uns aber auch um die Herausforderungen kümmern, vor denen eine Stadtbevölkerung nicht steht.
 
+## KREATUR WORKS - KANAL SALONG
+![KREATUR WORKS Logo](kreaturworks.png)
+
+Seit anderthalb Jahren laden wir, Kai Schächtele und Sven Kämmerer, jeden 2. Dienstag zum Salong Austausch ein. Eine Zoom-Gesprächsplattform, um über gesellschaftliche und politische Themen zu sprechen. Dabei gab es jeweils hinzu geladene Gäste - von Klimaaktivisten, über Autoren, Professoren, bis zu Bundestagsabgeordneten. Im Vordergrund steht immer der Austausch innerhalb der gesamten Gesprächsrunde. Jede*r kann sich zu Wort melden, Beiträge einbringen, mitdiskutieren.
+
+Dieses Konzept wollen wir mit unserem Channel KREATUR WORKS - KANAL SALONG auch auf den RC3 2021 NOWHERE übertragen.  Jeden Veranstaltungstag wollen wir ca. vier bis sechs Stunden mit bis zu drei Panels à zwei Stunden über gesellschaftliche Themen unserer Zeit sprechen. Im Fokus steht aber auch hier das Gespräch miteinander: Jede*r Zuschauer*in kann sich ins Gespräch mit einschalten und mit uns diskutieren. Denn am Ende sorgen wir für den größten Wandel nicht durch die Dogmen Einzelner, sondern durch den gemeinsamen Austausch vieler und das gemeinsame Verständnis für einander trotz aller vermeintlichen Unterschiede.
+
+
+
 ## xHain hack+makespace
 
 ![xHain Logo](xhain.png)
@@ -281,6 +290,11 @@ If you have any questions in advance or if you're not sure whether your idea fit
 
 ...or: Life in the countryside
 In our channel we deal with everything that concerns people in the countryside. From transport connections, political participation and equal rights to climate change and digitalization. In doing so, we want to look beyond the village borders into the world, but also take care of the challenges that an urban population does not have to deal with.
+
+
+## KREATUR WORKS - KANAL SALONG
+
+
 
 ## xHain hack+makespace
 
