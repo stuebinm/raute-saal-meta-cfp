@@ -118,6 +118,8 @@ Wir bieten euch die Möglichkeit, euren Beitrag in unserem "Studio" in Bamberg z
 
 
 ## about:future / hackers against climate change München
+![about:future logo](a-f-logo.svg)
+
 Was tun, während die Klimakrise weiter geht? Wo lässt sich ansetzen, und wie? An welchen Orten können Alternativen geschaffen werden – zum unentrinnbaren Straßenverkehr, zu nicht Recycle- oder Reparierbarem, zu Weltanschauungen, die von vornherein jede Veränderung als unmöglich betrachten? Und wie könnten die aussehen?
 Auch diesen Remote-Congress möchten wir ([hackers against climate change München](https://muc.hacc.earth/)) als Teil des about:future Clusters diesen Fragen eine Bühne geben.
 
@@ -276,6 +278,8 @@ There's $tool or $programming_language you have some experience in using? Teach 
 You may come to our "studio" in Bamberg if the situation between Christmas and New Year's permits it. In any case, there will be the possibility to join us from home with your webcam. The audience is going to be exclusively remote via live stream.
 
 ## about:future / hackers against climate change München
+![about:future logo](a-f-logo.svg)
+
 What to do, while the climate crisis continues? Where to start, and how? Where can we build alternatives — to inescapable car traffic, to non-recycable or non-repariable things, to ideologies that will always dismiss any kind of change as impossible? And how might these look like? As on last year's rc3 we want to offer these topics a stage as part of the about:future cluster.
 
 ⚠️ We are a relatively small team who will run a relatively small programme, and unfortunately we don't have the capacity to run a wholly remote stage as well, so everything will be live-streamed from our local studio in Munich. Please make sure you can be there for your talk (sometime during Congress, i.e. between 27 and 30 December), and consider also submitting your idea to other channels.
