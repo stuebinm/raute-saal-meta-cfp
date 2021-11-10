@@ -1,4 +1,8 @@
 # [rC3 2021 - NOWHERE] Meta-Call for Participation
+
+![🞛 Saal Meta CfP Header](meta-cfp-header.png)
+
+
 Entgegen aller Erwartungen, Hoffnungen und Wünsche gibt es auch dieses Jahr noch keinen Präsenz-Congress. Aber es wird aller Wahrscheinlichkeit auch keinen reinen remote Congress geben. Aber es wird keine Wiederholung vom letzten Jahr geben. Es wird eine Neuauflage sein, da es einen dezentralen (remote) Congress geben wird. Lokale Spaces werden Events hosten, es wird verteile (virtuelle) Bühnen geben.
 
 Diese Bühnen werden von eigenständigen Channels betreut. Jeder dieser Channels hat ein eigenes Fachgebiet. Jeder dieser Channel hat einen eigenen Call for Participation (CfP).
