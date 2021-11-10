@@ -67,7 +67,7 @@ Logo: cwtv_logo_vektor.svg
 
 **R3S - Sharks in Cyberspace**
 
-Wie im letzten Jahr haben wir wieder eine echte Bühne mit Licht-, Audio- und Streamingequipment. Wer also mal wieder [fast ;-)] echtes Bühnenfeeling spüren möchte, kommt gerne zu uns in die Aula der Volkshochschule nach **Monheim am Rhein**. Monheim liegt verkehrsgünstig zwischen den beiden Großstädten Köln und Düsseldorf.
+Wie im letzten Jahr haben wir bei der [RemoteRheinRuhrStage](https://r3s.nrw) wieder eine echte Bühne mit Licht-, Audio- und Streamingequipment. Wer also mal wieder [fast ;-)] echtes Bühnenfeeling spüren möchte, kommt gerne zu uns in die Aula der Volkshochschule nach **Monheim am Rhein**. Monheim liegt verkehrsgünstig zwischen den beiden Großstädten Köln und Düsseldorf.
 
 Fühlt Euch herzlich eingeladen, wenn Ihr etwas zu **Opensource, Datensicherheit** oder **Nachhaltigkeit** zu sagen, zeigen, basteln habt. Natürlich interessieren uns aber auch alle anderen Cyber-Themen, die Ihr zu uns tragt.
 
@@ -217,7 +217,7 @@ Logo: cwtv_logo_vektor.svg
 
 **R3S - Sharks in Cyberspace**.
 
-Like last year, we will have a real stage with lighting, audio and streaming equipment. So if you want to have [almost ;-)] real stage feeling again, you are welcome to join us in the auditorium of the Volkshochschule in **Monheim am Rhein**. Monheim is located between the two big cities Cologne and Düsseldorf easily reachable by public transport.
+Like last year, we will have at the [RemoteRheinRuhrStage](https://r3s.nrw) a real venue with lighting, audio and streaming equipment. So if you want to have [almost ;-)] real stage feeling again, you are welcome to join us in the auditorium of the Volkshochschule in **Monheim am Rhein**. Monheim is located between the two big cities Cologne and Düsseldorf easily reachable by public transport.
 
 Feel invited if you have something to say, show, tinker to **Open source**, **Data Security** or **Sustainability**. Of course we are also interested in all other cyber topics you bring to us.
 
@@ -262,7 +262,7 @@ You may come to our "studio" in Bamberg if the situation between Christmas and N
 MISSING
 
 ## Sendezentrum
-MISSING
+The Sendezentrum will offer a program of live podcasts and talks on podcasting topics. The Sendezentrum is virtual only, there is no presence stage. https://sendegate.de/t/sendezentrum-rc3-2021-call-for-participation-live-podcasts-talks-workshops/14536
 
 ## haecksen
 ["Just another day in Paradise"](https://events.haecksen.org/) is the motto under which the [Haecksen](https://www.haecksen.org/) will end the year 2021 with you. To make the year-end event really a paradise, we need you, your ideas, your creativity or your know-how. Therefore, submit your talk, workshop, lightning talk or panel to our CfP.
