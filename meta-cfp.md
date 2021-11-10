@@ -71,6 +71,7 @@ Wie im letzten Jahr haben wir bei der [RemoteRheinRuhrStage](https://r3s.nrw) wi
 
 Fühlt Euch herzlich eingeladen, wenn Ihr etwas zu **Opensource, Datensicherheit** oder **Nachhaltigkeit** zu sagen, zeigen, basteln habt. Natürlich interessieren uns aber auch alle anderen Cyber-Themen, die Ihr zu uns tragt.
 
+Ihr könnt euren Beitrag **live vor Ort** in Monheim am Rhein oder **Remote per Videokonferenz** halten. Ihr könnt den Vortrag natürlich auch vorher **aufzeichnen**, aber wir hätten gerne eine Live-Diskussion mit dem Publikum.
 
 CfP: https://pretalx.c3voc.de/rc3-2021-r3s/
 
