@@ -71,6 +71,7 @@ Wie im letzten Jahr haben wir bei der [RemoteRheinRuhrStage](https://r3s.nrw) wi
 
 Fühlt Euch herzlich eingeladen, wenn Ihr etwas zu **Opensource, Datensicherheit** oder **Nachhaltigkeit** zu sagen, zeigen, basteln habt. Natürlich interessieren uns aber auch alle anderen Cyber-Themen, die Ihr zu uns tragt.
 
+Ihr könnt euren Beitrag **live vor Ort** in Monheim am Rhein oder **Remote per Videokonferenz** halten. Ihr könnt den Vortrag natürlich auch vorher **aufzeichnen**, aber wir hätten gerne eine Live-Diskussion mit dem Publikum.
 
 CfP: https://pretalx.c3voc.de/rc3-2021-r3s/
 
@@ -220,6 +221,8 @@ Logo: cwtv_logo_vektor.svg
 Like last year, we will have at the [RemoteRheinRuhrStage](https://r3s.nrw) a real venue with lighting, audio and streaming equipment. So if you want to have [almost ;-)] real stage feeling again, you are welcome to join us in the auditorium of the Volkshochschule in **Monheim am Rhein**. Monheim is located between the two big cities Cologne and Düsseldorf easily reachable by public transport.
 
 Feel invited if you have something to say, show, tinker to **Open source**, **Data Security** or **Sustainability**. Of course we are also interested in all other cyber topics you bring to us.
+
+You can present your contribution **live on location** in Monheim am Rhein or **remotely** via video conference. You can also **pre-record** your talk, but we would like to have a live q&a with the audience.
 
 CfP: https://pretalx.c3voc.de/rc3-2021-r3s/
 
