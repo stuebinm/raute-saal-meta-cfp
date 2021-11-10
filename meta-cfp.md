@@ -1,7 +1,7 @@
 # [RC3 2021 - NOWHERE] Meta-Call for Participation
 Entgegen aller Erwartungen, Hoffnungen und Wünsche gibt es auch dieses Jahr noch keinen Präsenz-Congress. Aber es wird aller Wahrscheinlichkeit auch keinen reinen remote Congress geben. Aber es wird keine Wiederholung vom letzten Jahr geben. Es wird eine Neuauflage sein, da es einen dezentralen (remote) Congress geben wird. Lokale Spaces werden Events hosten, es wird verteile (virtuelle) Bühnen geben.
 
-Diese Bühnen werden von eigenständigen Channels betreut. Jeder dieser Channels hat ein eigenes Fachgebiet. Jeder dieser Channel hat einen eigenen Call for Participation.
+Diese Bühnen werden von eigenständigen Channels betreut. Jeder dieser Channels hat ein eigenes Fachgebiet. Jeder dieser Channel hat einen eigenen Call for Participation (CfP).
 
 In diesem Meta-CfP wollen wir uns als Channels vorstellen. Wir wollen euch aber auch unseren gemeinsamen Konsens über das, was wir auf dem RC3 2021 - NOWHERE wollen, transparent darlegen.
 
@@ -21,18 +21,18 @@ Die Channels werden dann gemeinsam entscheiden, welcher Channel euch hosten wird
 ## Content-Kuration
 Solltet ihr bei einem Channel einreichen und es stellt sich heraus, dass ein anderer Channel das Thema besser abdeckt, würden wir eure Einreichung an diesen Channel weitergeben.
 
-Manchmal ergibt es sich auch, dass es zwei fast identische Vorträge gibt. In diesem Fall würden wir euch als Einreichende kontaktieren und eine Lösung (z.B. das Zusammenfassen)  euch vorschlagen.
+Manchmal ergibt es sich auch, dass es zwei fast identische Vorträge gibt. In diesem Fall würden wir euch als Einreichende kontaktieren und euch eine Lösung (z.B. das Zusammenfassen) vorschlagen.
 
-Wenn ihr eine solche Kuration nicht wünscht, bitte schreibt es explizit in eurer Einreichung dazu.
+Wenn ihr eine solche Kuration nicht wünscht, schreibt es bitte explizit in eurer Einreichung dazu.
 
 # Channels
-Die in alphabetischer Reihenfolge sortierte Liste von Channels beschreibt das Konzept und die Themen in einem kurzen Absatz.  Weitere Details finden sich jeweils im verlinkten CfP des Channels.
+Die in alphabetischer Reihenfolge sortierte Liste von Channels beschreibt das Konzept und die Themen in einem kurzen Absatz. Weitere Details finden sich jeweils im verlinkten CfP des Channels.
 
 ## rc1 / Main Track
 Im Gegensatz zum letzten Jahr, wird es dieses Jahr keinen Main Track geben. Aus diesem Grund gibt es auch keinen dedizierten Call for Participation für einen Main Track.
 
 ## FeM
-Soziale Probleme lassen sich durch Technik nicht lösen, die kann aber helfen. Vom Home-Lab bis zum Hyperscaler, vom Piratensender bis zur hoch professionellen Medienanstalt und der LAN-Verkabelung Zuhause bis zu interkontinentalen Weitverkehrsnetzen interessieren wir uns für deine Einreichung zur Technik selber, Ansätze diese kreativ zu nutzen, deren Einfluss auf unsere Gesellschaft, und warum bestimmte Dinge (eher nicht) getan werden sollten.
+Soziale Probleme lassen sich durch Technik nicht lösen, sie kann aber helfen. Vom Home-Lab bis zum Hyperscaler, vom Piratensender bis zur hoch professionellen Medienanstalt und der LAN-Verkabelung Zuhause bis zu interkontinentalen Weitverkehrsnetzen interessieren wir uns für deine Einreichung zur Technik selbst, Ansätze diese kreativ zu nutzen, deren Einfluss auf unsere Gesellschaft, und warum bestimmte Dinge (eher nicht) getan werden sollten.
 
 https://pretalx.c3voc.de/rc3-2021-fem/
 
@@ -44,7 +44,7 @@ Das Leistungsspektrum des c-base-Channels bietet konzeptionelle Beratungsleistun
 
 Ob live oder remote: Wir suchen Dich und deine Ideen für die gemeinsame Entwicklung von hochwertigem und nachhaltigem Content aus den Bereichen Art & Beauty, Gesellschaft und Netzpolitik!
 
-Die Marke c-base, mit ihrer mehrstufigen innovativen Multiplikatorenplattform, ist ein Lösungsansatz, um sich gesellschaftliche Herausforderungen in einem breiten systemisch-lösungsorientierten Community-Beteiligungsprozess zu stellen. Dadurch vermeiden wir das übliche  "Bullshit-Bingo" und pflücken nicht nur  tief hängende Früchte!
+Die Marke c-base, mit ihrer mehrstufigen innovativen Multiplikatorenplattform, ist ein Lösungsansatz, um sich gesellschaftliche Herausforderungen in einem breiten systemisch-lösungsorientierten Community-Beteiligungsprozess zu stellen. Dadurch vermeiden wir das übliche  "Bullshit-Bingo" und pflücken nicht nur tief hängende Früchte!
 
 Nutze auch Du die Möglichkeiten, die Dir die größte Jahresendveranstaltung der europäischen Hackerszene zur Zusammenarbyte eröffnet und veröffentliche, in deinem ganz persönlich Zeitfenster, auf "c-base".
 
@@ -84,7 +84,7 @@ Wir freuen uns über Beiträge zu Wissenschaft und Technik, gerne auch mit regio
 
 Bitte sucht aus: einen Vortrag mit 30 Minuten Länge (plus Diskussion), oder einen Lightning Talk mit max. 10 Minuten. Für euer Kunstprojekt haben wir auf Wunsch auch flexible Zeitslots.
 
-Ihr könnt euren Beitrag live vor Ort in Hamburg in den Räumen es Chaos Computer Club Hamburg oder Remote per Videokonferenz halten. Ihr könnt den Vortrag natürlich auch vorher aufzeichnen, aber wir hätten gerne eine Live-Diskussion mit dem Publikum.
+Ihr könnt euren Beitrag live vor Ort in Hamburg in den Räumen des Chaos Computer Club Hamburg oder Remote per Videokonferenz halten. Ihr könnt den Vortrag natürlich auch vorher aufzeichnen, aber wir hätten gerne eine Live-Diskussion mit dem Publikum.
 
 Bitte sendet euren Vorschlag [im Konferenz-Management-System](https://pretalx.c3voc.de/rc3-2021-chaosstudiohamburg/cfp) bei uns ein. Be excellent to each other!
 
@@ -122,15 +122,15 @@ Auch diesen Remote-Congress möchten wir ([hackers against climate change Münch
 
 ## Sendezentrum
 
-Im Sendezentrum wird es wird ein Programm mit Live-Podcasts und Vorträgen zu Podcasting-Themen geben. Das Sendezentrum ist virtuell, es gibt keine Präsenzbühne. https://sendegate.de/t/sendezentrum-rc3-2021-call-for-participation-live-podcasts-talks-workshops/14536
+Im Sendezentrum wird es ein Programm mit Live-Podcasts und Vorträgen zu Podcasting-Themen geben. Das Sendezentrum ist virtuell, es gibt keine Präsenzbühne. https://sendegate.de/t/sendezentrum-rc3-2021-call-for-participation-live-podcasts-talks-workshops/14536
 
 ## haecksen
 
-["Just another day in Paradise"](https://events.haecksen.org/), so lautet das Motto unter welchem die [Haecksen](https://www.haecksen.org/) mit euch das Jahr 2021 ausklingen lassen. Um das Jahresendevent auch wirklich zu einem Paradis zu machen brauchen wir dich, deine Ideen, deine Kreativität oder dein Know-How. Deshalb reiche deinen Talk, Workshop, Lightning-Talk oder Panel bei unserem CfP ein.
+["Just another day in Paradise"](https://events.haecksen.org/), so lautet das Motto, unter welchem die [Haecksen](https://www.haecksen.org/) mit euch das Jahr 2021 ausklingen lassen. Um das Jahresendevent auch wirklich zu einem Paradis zu machen, brauchen wir dich, deine Ideen, deine Kreativität oder dein Know-How. Deshalb reiche deinen Talk, Workshop, Lightning-Talk oder Panel bei unserem CfP ein.
 
 https://pretalx.c3voc.de/rc3-2021-haecksen/cfp
 
-Hast du vorab Fragen oder bist dir nicht sicher ob deine Idee reinpasst melde dich einfach bei uns unter event-orga2021[at]lists.haecksen.org.
+Hast du vorab Fragen oder bist dir nicht sicher, ob deine Idee reinpasst - melde dich einfach bei uns unter event-orga2021[at]lists.haecksen.org.
 
 ## xHain hack+makespace
 gehacktes from hell
