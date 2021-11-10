@@ -259,7 +259,9 @@ There's $tool or $programming_language you have some experience in using? Teach 
 You may come to our "studio" in Bamberg if the situation between Christmas and New Year's permits it. In any case, there will be the possibility to join us from home with your webcam. The audience is going to be exclusively remote via live stream.
 
 ## about:future / hackers against climate change München
-MISSING
+What to do, while the climate crisis continues? Where to start, and how? Where can we build alternatives — to inescapable car traffic, to non-recycable or non-repariable things, to ideologies that will always dismiss any kind of change as impossible? And how might these look like? As on last year's rc3 we want to offer these topics a stage as part of the about:future cluster.
+
+⚠️ We are a relatively small team who will run a relatively small programme, and unfortunately we don't have the capacity to run a wholly remote stage as well, so everything will be live-streamed from our local studio in Munich. Please make sure you can be there for your talk (sometime during Congress, i.e. between 27 and 30 December), and consider also submitting your idea to other channels.
 
 ## Sendezentrum
 The Sendezentrum will offer a program of live podcasts and talks on podcasting topics. The Sendezentrum is virtual only, there is no presence stage. https://sendegate.de/t/sendezentrum-rc3-2021-call-for-participation-live-podcasts-talks-workshops/14536
