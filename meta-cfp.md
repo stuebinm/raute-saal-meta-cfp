@@ -261,7 +261,7 @@ You may come to our "studio" in Bamberg if the situation between Christmas and N
 MISSING
 
 ## Sendezentrum
-MISSING
+The Sendezentrum will offer a program of live podcasts and talks on podcasting topics. The Sendezentrum is virtual only, there is no presence stage. https://sendegate.de/t/sendezentrum-rc3-2021-call-for-participation-live-podcasts-talks-workshops/14536
 
 ## haecksen
 ["Just another day in Paradise"](https://events.haecksen.org/) is the motto under which the [Haecksen](https://www.haecksen.org/) will end the year 2021 with you. To make the year-end event really a paradise, we need you, your ideas, your creativity or your know-how. Therefore, submit your talk, workshop, lightning talk or panel to our CfP.
